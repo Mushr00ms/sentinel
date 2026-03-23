@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.jsonl
+
+# Runtime data / scan output
+data/
+output/
+
+# IDE / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude local settings
+.claude/
+
+# Temp
+/tmp/
+*.tmp
