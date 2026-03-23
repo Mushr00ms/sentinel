@@ -13,6 +13,15 @@ import { detectPrecisionLoss } from "./precisionLoss.js";
 import { detectEnhancedERC4626 } from "./enhancedERC4626.js";
 import { detectUncheckedReturnValues } from "./uncheckedReturnValues.js";
 import { detectERC777Reentrancy } from "./erc777Reentrancy.js";
+// 2026 logic-signature detectors
+import { detectDonationAttack } from "./donationAttack.js";
+import { detectOracleMisconfiguration } from "./oracleMisconfiguration.js";
+import { detectInfiniteMint } from "./infiniteMint.js";
+import { detectCrossChainSpoofing } from "./crossChainSpoofing.js";
+import { detectAccessControlBypass } from "./accessControlBypass.js";
+import { detectFlashloanShareManipulation } from "./flashloanShareManipulation.js";
+import { detectUnlimitedApproval } from "./unlimitedApproval.js";
+import { detectZkVerifierBypass } from "./zkVerifierBypass.js";
 
 /**
  * Runs all vulnerability detectors and returns merged findings.
@@ -51,6 +60,56 @@ export function runAllDetectors(
   // Phase 3.6: ERC-777 Hook Reentrancy
   try {
     findings.push(...detectERC777Reentrancy(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // ── 2026 Logic-Signature Detectors ────────────────────────────────────
+
+  // Phase 3.7: Donation / Share-Inflation Attack
+  // (Curve LlamaLend, Venus, Goose Finance, dTRINITY dLEND)
+  try {
+    findings.push(...detectDonationAttack(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.8: Oracle Misconfiguration
+  // (Makina, Blend Pools, Ploutos, Aave CAPO, YO Protocol, Moonwell)
+  try {
+    findings.push(...detectOracleMisconfiguration(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.9: Infinite Mint / Token Inflation
+  // (Saga, DGLD, TMX TRIBE, SolvBTC, Truebit bonding curve)
+  try {
+    findings.push(...detectInfiniteMint(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.10: Cross-Chain Message Spoofing
+  // (CrossCurve, FOOM Cash ZK bridge replay)
+  try {
+    findings.push(...detectCrossChainSpoofing(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.11: Access Control Bypass
+  // (Molt EVM mutable modifier, Fusion by IPOR EIP-7702)
+  try {
+    findings.push(...detectAccessControlBypass(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.12: Flashloan Share Manipulation
+  // (Cyrus Finance, Wise Lending V2)
+  try {
+    findings.push(...detectFlashloanShareManipulation(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.13: Unlimited Approval / Arbitrary-Call Drain
+  // (Matcha / 0x)
+  try {
+    findings.push(...detectUnlimitedApproval(evmAnalysis, storageLayout));
+  } catch { /* non-fatal */ }
+
+  // Phase 3.14: ZK Verifier Bypass
+  // (Veil Cash Groth16 misconfiguration, FOOM Cash)
+  try {
+    findings.push(...detectZkVerifierBypass(evmAnalysis, storageLayout));
   } catch { /* non-fatal */ }
 
   // Deduplicate across detectors

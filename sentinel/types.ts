@@ -230,7 +230,20 @@ export type RiskClass =
   | "fee_on_transfer"
   | "precision_loss"
   | "storage_collision"
-  | "unchecked_return_value";
+  | "unchecked_return_value"
+  // 2026 exploit categories
+  | "donation_attack"
+  | "infinite_mint"
+  | "cross_chain_spoofing"
+  | "zk_verifier_bypass"
+  | "eip7702_delegation"
+  | "collateral_mispricing"
+  | "mint_loop"
+  | "bonding_curve_overflow"
+  | "flashloan_share_manipulation"
+  | "unlimited_approval"
+  | "oracle_misconfiguration"
+  | "create2_sybil";
 
 export interface StaticAnalysisFinding {
   riskClass: RiskClass;
