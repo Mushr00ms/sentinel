@@ -1,0 +1,6819 @@
+[
+  {
+    "chains": [
+      "Blast"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1711065600,
+    "target": "Gaming",
+    "amount": 4800000,
+    "name": "Super Sushi Samurai",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://rekt.news/sss-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1709856000,
+    "target": "DeFi Protocol",
+    "amount": 2100000,
+    "name": "Unizen",
+    "technique": "External Call Vulnerability",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1766210445415727608",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1621814400,
+    "target": "DeFi Protocol",
+    "amount": 745000,
+    "name": "AutoShark",
+    "technique": "Flashloan Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://watchpug.medium.com/sharkfinance-performance-fee-minting-incident-analysis-4b2e3bd03923",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1773532800,
+    "target": "DeFi Protocol",
+    "amount": 3700000,
+    "name": "Venus Core Pool",
+    "technique": "Donation Attack",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/2033159804626112932",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1630627200,
+    "target": "DeFi Protocol",
+    "amount": 3450000,
+    "name": "Siren",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/BlockSecTeam/status/1433682132090568705?s=20&t=yoeOhpvaWABdrYwfwtTJ0Q",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Rugpull",
+    "date": 1704585600,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "MangoFarmSol",
+    "technique": "Frontend Attack",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/funds-mangofarmsol-drained-community-rug-pull",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Algorand"
+    ],
+    "classification": "Infrastructure",
+    "date": 1677456000,
+    "target": "Wallet",
+    "amount": 9200000,
+    "name": "MyAlgo",
+    "technique": "Cloudflare Key Compromised",
+    "bridge": false,
+    "link": "https://twitter.com/zachxbt/status/1630375691886686208?s=20",
+    "language": "Javascript"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1747267200,
+    "target": "DeFi Protocol",
+    "amount": 500000,
+    "name": "Zunami Protocol",
+    "technique": "withdrawStuckToken() exploit",
+    "bridge": false,
+    "link": "https://x.com/ZunamiProtocol/status/1922993510925435267",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1762819200,
+    "target": "DeFi Protocol",
+    "amount": 380000,
+    "name": "Impermax V3",
+    "technique": "Zero-Rate Hack",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/1988339762537918895",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1628726400,
+    "target": "DeFi Protocol",
+    "amount": 7000000,
+    "name": "DAO Maker Vesting",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/dao-maker-crowdfunding-platform-loses-7m-in-latest-defi-exploit",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Solana",
+      "Bitcoin"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1730332800,
+    "target": "CEX",
+    "amount": 13700000,
+    "name": "M2 Exchange",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1852303223903633572",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1743465600,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "UPCX",
+    "technique": "Upgraded ProxyAdmin + withdrawByAdmin Hack",
+    "bridge": false,
+    "link": "https://x.com/cyversalerts/status/1907046941906653633",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1739232000,
+    "target": "DeFi Protocol",
+    "amount": 183000,
+    "name": "four.meme",
+    "technique": "Liquidity Pool Exploit",
+    "bridge": false,
+    "link": "https://x.com/peckshieldalert/status/1889210001220423765",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Fantom"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1625875200,
+    "target": "CEX",
+    "amount": 7900000,
+    "name": "Multichain",
+    "technique": "Private Key Compromised (Bad ECDSA Implementation)",
+    "bridge": true,
+    "link": "https://rekt.news/anyswap-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "zkSync Era",
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1690675200,
+    "target": "DeFi Protocol",
+    "amount": 1100000,
+    "name": "Kannagi",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/1685162644653973510",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1620777600,
+    "target": "DeFi Protocol",
+    "amount": 24000000,
+    "name": "xToken",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1392515198674681863?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1726790400,
+    "target": "CEX",
+    "amount": 43300000,
+    "name": "BingX",
+    "technique": "Hot wallet hack",
+    "bridge": false,
+    "link": "https://x.com/OnchainDataNerd/status/1836977341094150398",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1626912000,
+    "target": "DeFi Protocol",
+    "amount": 8000000,
+    "name": "Thorchain DEX",
+    "technique": "Refund Logic Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/thorchain-rekt2/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1630713600,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "DAO Maker Vesting",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Mudit__Gupta/status/1434059922774237185?s=20&t=aoOtJLS6FHimjAE1anc1mg",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1771632000,
+    "target": "DeFi Protocol",
+    "amount": 8000000,
+    "name": "IoTeX",
+    "technique": "Private Key Compromised",
+    "bridge": true,
+    "link": "https://x.com/PeckShieldAlert/status/2025161252620955965",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1624838400,
+    "target": "DeFi Protocol",
+    "amount": 248000,
+    "name": "Safe Dollar",
+    "technique": "Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/safedollar-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "PulseChain"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1756166400,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "BetterBank",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/BetterBank_io/status/1960409391628189749",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Infrastructure",
+    "date": 1713139200,
+    "target": "DeFi Protocol",
+    "amount": 1700000,
+    "name": "Grand Base",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1779796368732872856",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Bitcoin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1708214400,
+    "target": "DeFi Protocol",
+    "amount": 26100000,
+    "name": "FixedFloat",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/fixed-float-confirms-26m-exploit-bitcoin-ether",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1651276800,
+    "target": "DeFi Protocol",
+    "amount": 11000000,
+    "name": "Saddle Finance",
+    "technique": "Flashloan Swap Logic Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/saddle-finance-rekt2/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1659312000,
+    "target": "DeFi Protocol",
+    "amount": 190000000,
+    "name": "Nomad",
+    "technique": "Trusted Root Exploit",
+    "bridge": true,
+    "link": "https://twitter.com/samczsun/status/1554252024723546112?s=20&t=mesLZTckBsl_X2_KbGcEHQ",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1649721600,
+    "target": "DeFi Protocol",
+    "amount": 22200000,
+    "name": "Elephant Money",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/BlockSecTeam/status/1513966074357698563",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1678665600,
+    "target": "DeFi Protocol",
+    "amount": 197000000,
+    "name": "Euler V1",
+    "technique": "Flashloan Donate Function Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1635229594596036608?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Story"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767052800,
+    "target": "DeFi Protocol",
+    "amount": 3900000,
+    "name": "Unleash Protocol",
+    "technique": "Multisig Governance Hack",
+    "bridge": false,
+    "link": "https://x.com/UnleashProtocol/status/2005907998691229933",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1675296000,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "Orion Pools",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1621337925228306433?s=20&t=ZroERzkeCrxy3gHxtboQeA",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1762473600,
+    "target": "DeFi Protocol",
+    "amount": 40000,
+    "name": "DIMO",
+    "technique": "Private Key Compromised",
+    "bridge": true,
+    "link": "https://x.com/DIMO_Network/status/1986847282889957391",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1703894400,
+    "target": "DeFi Protocol",
+    "amount": 321000,
+    "name": "Locus Finance",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/Locus_finance/status/1744374506267767267",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1706572800,
+    "target": "DeFi Protocol",
+    "amount": 6500000,
+    "name": "Abracadabra Spell",
+    "technique": "Borrow Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1752279373779194011",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1773446400,
+    "target": "DeFi Protocol",
+    "amount": 8435,
+    "name": "Goose Finance",
+    "technique": "Share Accounting Flaw",
+    "bridge": false,
+    "link": "https://x.com/DefimonAlerts/status/2032836162046316868",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Fantom"
+    ],
+    "classification": "Ecosystem",
+    "date": 1651104000,
+    "target": "DeFi Protocol",
+    "amount": 13400000,
+    "name": "DEUS Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1519530463337250817?s=20&t=Mr6sVLBWq_A0ej9Y3-qstA",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base",
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1769385600,
+    "target": "DeFi Protocol",
+    "amount": 16800000,
+    "name": "Matcha",
+    "technique": "Unlimited Approval Exploit",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/2015608261119217671",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1773273600,
+    "target": "DeFi Protocol",
+    "amount": 862000,
+    "name": "Aave V3",
+    "technique": "CAPO Oracle Misconfiguration",
+    "bridge": false,
+    "link": "https://x.com/yieldsandmore/status/2031468808012210538",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1682899200,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "Level Perps",
+    "technique": "Referral Claims Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1653149493133729794?t=ojjCnRcDogo3lOKIy8cKgA&s=19",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1699488000,
+    "target": "CEX",
+    "amount": 2400000,
+    "name": "CoinSpot",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1722412658404843691",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1623801600,
+    "target": "DeFi Protocol",
+    "amount": 6500000,
+    "name": "Alchemix",
+    "technique": "Borrow Logic Exploit",
+    "bridge": false,
+    "link": "https://forum.alchemix.fi/public/d/137-incident-report-06162021",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1751932800,
+    "target": "DeFi Protocol",
+    "amount": 175000,
+    "name": "Peapods Finance\n\n",
+    "technique": "Oracle manipulation in user-created Pods",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/1942542084214513996",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1716163200,
+    "target": "DeFi Protocol",
+    "amount": 22000000,
+    "name": "Gala",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/Thatguysgems/status/1792679865164128743",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1711324800,
+    "target": "DeFi Protocol",
+    "amount": 16000000,
+    "name": "Curio",
+    "technique": "Voting Power Inflation",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1772216818645565673",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1678147200,
+    "target": "DeFi Protocol",
+    "amount": 1600000,
+    "name": "Tender Finance",
+    "technique": "Outdated Oracle Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/wasgiventhatday/status/1633056446278426624?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1726444800,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Rivus DAO",
+    "technique": "Third-party Dev Backdoor Exploit",
+    "bridge": false,
+    "link": "https://x.com/RivusDAO/status/1835782524746015137",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Hyperliquid L1"
+    ],
+    "classification": "Rugpull",
+    "date": 1758844800,
+    "target": "DeFi Protocol",
+    "amount": 3600000,
+    "name": "HyperVault",
+    "technique": "Drain Vaults",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/1971476404173930660",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1715817600,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "pump.fun",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/FrankResearcher/status/1791164323047293325",
+    "language": "Rust/Anchor"
+  },
+  {
+    "chains": [
+      "Fantom"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1731715200,
+    "target": "DeFi Protocol",
+    "amount": 12000000,
+    "name": "Polter Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/polter-finance-12m-hack-response",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Hedera"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1738368000,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "Sirio Finance",
+    "technique": "Flashloan Exploit",
+    "bridge": false,
+    "link": "https://x.com/SirioFinance/status/1885800736967024957",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1620345600,
+    "target": "DeFi Protocol",
+    "amount": 11000000,
+    "name": "ValueDefi",
+    "technique": "Math Mistake Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1390905494844313602?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1689897600,
+    "target": "DeFi Protocol",
+    "amount": 3200000,
+    "name": "Conic Finance",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/ConicFinance/status/1682385596700844032?t=4a-w-I06_7EcbwpKWbPZHA&s=19",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1622160000,
+    "target": "DeFi Protocol",
+    "amount": 7200000,
+    "name": "BurgerSwap",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1398114924337971201?s=20&t=vVNaBlQNJ9WXRT54vvCZ8w",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1614384000,
+    "target": "DeFi Protocol",
+    "amount": 14000000,
+    "name": "Furucombo",
+    "technique": "Delegatecall Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Kurt_M_Barry/status/1365876788757471234?s=20&t=LObPnVPhVbkYv7U9e-AL7w",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1631836800,
+    "target": "DeFi Protocol",
+    "amount": 3100000,
+    "name": "JayPegs Automart",
+    "technique": "Redirected Deposits",
+    "bridge": false,
+    "link": "https://rekt.news/jaypegs-automart-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1728000000,
+    "target": "DeFi Protocol",
+    "amount": 130000,
+    "name": "Lava",
+    "technique": "Flashloan Exploit",
+    "bridge": false,
+    "link": "https://x.com/rotcivegaf/status/1842301803750470003",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Tron",
+      "Ethereum",
+      "BSC",
+      "Avalanche",
+      "Arbitrum",
+      "Polygon",
+      "Bitcoin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1750204800,
+    "target": "CEX",
+    "amount": 82000000,
+    "name": "Nobitex",
+    "technique": "Hot wallet hack",
+    "bridge": false,
+    "link": "https://x.com/QuillAudits_AI/status/1935237054155444611",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum",
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1713484800,
+    "target": "DeFi Protocol",
+    "amount": 44700000,
+    "name": "Hedgey",
+    "technique": "Claim Contract Flashloan Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/hedgeyfinance/status/1781257581488418862",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772064000,
+    "target": "DeFi Protocol",
+    "amount": 390000,
+    "name": "Ploutos Money",
+    "technique": "Misconfigured Oracle Exploit",
+    "bridge": false,
+    "link": "https://x.com/Phalcon_xyz/status/2026943448734114011",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1603670400,
+    "target": "DeFi Protocol",
+    "amount": 25000000,
+    "name": "Harvest Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/harvest-finance-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1764460800,
+    "target": "DeFi Protocol",
+    "amount": 9000000,
+    "name": "Yearn Ether",
+    "technique": "yETH stablepool Exploit",
+    "bridge": false,
+    "link": "https://x.com/Togbe0x/status/1995240261816070482",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Hedera"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1678406400,
+    "target": "DeFi Protocol",
+    "amount": 515000,
+    "name": "Hedera",
+    "technique": "Unknown",
+    "bridge": false,
+    "link": "https://rekt.news/hedera-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Tron",
+      "Ethereum",
+      "Bitcoin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1699574400,
+    "target": "CEX",
+    "amount": 126000000,
+    "name": "Poloniex",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1722931275764474329",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1728864000,
+    "target": "DeFi Protocol",
+    "amount": 250000,
+    "name": "LeadBlock's Morpho Blue Market",
+    "technique": "Oracle Misconfiguration Exploit",
+    "bridge": false,
+    "link": "https://x.com/omeragoldberg/status/1845515843787960661",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1635897600,
+    "target": "DeFi Protocol",
+    "amount": 3370000,
+    "name": "Vesper Finance",
+    "technique": "Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/VesperFi/status/1455567032536248324",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Ecosystem",
+    "date": 1665446400,
+    "target": "DeFi Protocol",
+    "amount": 115000000,
+    "name": "Mango Markets V3",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/joshua_j_lim/status/1579987648546246658?s=20&t=AFj8CwRWo5dFo_A1-A-18Q",
+    "language": "Rust"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1727222400,
+    "target": "Other",
+    "amount": 5000000,
+    "name": "Truflation",
+    "technique": "Private Key Compromised (Malware)",
+    "bridge": false,
+    "link": "https://www.theblock.co/post/318209/coinbase-ventures-backed-truflation-hacked-for-about-5-million-says-zachxbt",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1661212800,
+    "target": "DeFi Protocol",
+    "amount": 800000,
+    "name": "SudoRare",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://www.theblock.co/post/164970/nft-exchange-sudorare-suffers-800000-rug-pull-six-hours-after-launch",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772409600,
+    "target": "DeFi Protocol",
+    "amount": 240000,
+    "name": "Curve LlamaLend",
+    "technique": "Donation Attack",
+    "bridge": false,
+    "link": "https://x.com/yieldsandmore/status/2028368378457362629",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum",
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772236800,
+    "target": "DeFi Protocol",
+    "amount": 66000,
+    "name": "Wise Lending V2",
+    "technique": "Flashloan Exploit",
+    "bridge": false,
+    "link": "",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1691452800,
+    "target": "DeFi Protocol",
+    "amount": 1157000,
+    "name": "Steadefi",
+    "technique": "Deployer Wallet Compromised",
+    "bridge": false,
+    "link": "https://twitter.com/steadefi/status/1688919583707877376",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Bitcoin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1642464000,
+    "target": "CEX",
+    "amount": 33700000,
+    "name": "Crypto.com",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/cryptocom-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "0G"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1765411200,
+    "target": "DeFi Protocol",
+    "amount": 516000,
+    "name": "0G Labs",
+    "technique": "emergencyWithdraw Function Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1999481982858715247",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1676851200,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "Dexible V2",
+    "technique": "Arbitrary External Call",
+    "bridge": false,
+    "link": "https://twitter.com/RektHQ/status/1628030868043300865",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1581724800,
+    "target": "DeFi Protocol",
+    "amount": 350000,
+    "name": "Ooki",
+    "technique": "Flashloan Slippage Attack",
+    "bridge": false,
+    "link": "https://www.coinbase.com/blog/around-the-block-analysis-on-the-bzx-attack-defi-vulnerabilities-the-state-of-debit-cards-in",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1666310400,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "Bond Protocol",
+    "technique": "Arbitrary External Call",
+    "bridge": false,
+    "link": "https://twitter.com/Supremacy_CA/status/1583425026094641153",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1643760000,
+    "target": "DeFi Protocol",
+    "amount": 326000000,
+    "name": "Portal",
+    "technique": "Signature Exploit",
+    "bridge": true,
+    "link": "https://twitter.com/samczsun/status/1489044939732406275?s=20&t=kfhTtvHGRyDbj-2P7f_hpA",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Celo"
+    ],
+    "classification": "Ecosystem",
+    "date": 1666051200,
+    "target": "DeFi Protocol",
+    "amount": 8400000,
+    "name": "Moola Market",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1582448720985014273?s=20&t=vRg4YjjP30kMjt_V7I0gfg",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1765843200,
+    "target": "DeFi Protocol",
+    "amount": 270000,
+    "name": "FutureSwap",
+    "technique": "Flashloan Governance Attack",
+    "bridge": false,
+    "link": "https://x.com/tenarmoralert/status/2001116475424133536",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1774137600,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Cyrus Finance",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/2035820631711744478",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1609200000,
+    "target": "DeFi Protocol",
+    "amount": 9400000,
+    "name": "Cover Protocol",
+    "technique": "Incentives Function Mistake",
+    "bridge": false,
+    "link": "https://coverprotocol.medium.com/12-28-post-mortem-34c5f9f718d4",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1763856000,
+    "target": "DeFi Protocol",
+    "amount": 166000,
+    "name": "Port3 Network",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/Port3Network/status/1992471015948210277",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1631664000,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "NowSwap",
+    "technique": "Inconsistent Value in Code",
+    "bridge": false,
+    "link": "https://x.com/BlockSecTeam/status/1438100688215560192",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1713916800,
+    "target": "DeFi Protocol",
+    "amount": 1800000,
+    "name": "XBridge",
+    "technique": "",
+    "bridge": true,
+    "link": "",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1643673600,
+    "target": "CEX",
+    "amount": 7500000,
+    "name": "BNS",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/zachxbt/status/1630665458134163476",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Bitcoin",
+      "Tron",
+      "Kadena",
+      "Solana",
+      "Dagger",
+      "XRP",
+      "BitcoinCash",
+      "Polygon",
+      "Stellar",
+      "Arbitrum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1694476800,
+    "target": "CEX",
+    "amount": 55000000,
+    "name": "CoinEx",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://www.coindesk.com/tech/2023/09/13/north-korean-attackers-linked-to-54m-coinex-hack-blockchain-data-suggests/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "zkSync Era"
+    ],
+    "classification": "Infrastructure",
+    "date": 1744675200,
+    "target": "Other",
+    "amount": 5000000,
+    "name": "ZKsync",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/WuBlockchain/status/1912142777229754611",
+    "language": "Vyper"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1736294400,
+    "target": "DeFi Protocol",
+    "amount": 840000,
+    "name": "Orange Finance",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/0xorangefinance/status/1876863611458801890",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1729209600,
+    "target": "DeFi Protocol",
+    "amount": 4700000,
+    "name": "Tapioca DAO",
+    "technique": "Private Key Compromised (Social Engineering)",
+    "bridge": false,
+    "link": "https://x.com/tapioca_dao/status/1847330264139145361",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1752105600,
+    "target": "DeFi Protocol",
+    "amount": 1550000,
+    "name": "Kinto Bridge",
+    "technique": "ERC1967Proxy Backdoor Hijack",
+    "bridge": false,
+    "link": "https://x.com/ramonrecuero/status/1943426114468352006",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772755200,
+    "target": "DeFi Protocol",
+    "amount": 2700000,
+    "name": "SolvBTC",
+    "technique": "Mint Reserves Logic Exploit",
+    "bridge": true,
+    "link": "https://x.com/SolvProtocol/status/2029612210490933697",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767830400,
+    "target": "DeFi Protocol",
+    "amount": 26400000,
+    "name": "Truebit",
+    "technique": "Bonding Curve Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2009298780877713715",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1661990400,
+    "target": "DeFi Protocol",
+    "amount": 265000,
+    "name": "KyberSwap Classic",
+    "technique": "Cloudflare Key Compromised",
+    "bridge": false,
+    "link": "https://blog.kyberswap.com/post-mortem-past-kyberswap-frontend-exploit-sept-2022/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Near"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1667347200,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "Skyward Finance",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/skywardfinance/status/1587947957789331457",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1692316800,
+    "target": "DeFi Protocol",
+    "amount": 7200000,
+    "name": "Exactly",
+    "technique": "DebtManager Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/DeDotFiSecurity/status/1692549866713407912",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1764115200,
+    "target": "CEX",
+    "amount": 36000000,
+    "name": "Upbit",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/layerggofficial/status/1993893233064333343",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1627948800,
+    "target": "DeFi Protocol",
+    "amount": 20000000,
+    "name": "Popsicle Finance",
+    "technique": "Flashloan Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Mudit__Gupta/status/1422797923037814786?s=20&t=bZ-0VnJ8b4SQbx5PkaOGYg",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1643328000,
+    "target": "DeFi Protocol",
+    "amount": 80000000,
+    "name": "Qubit",
+    "technique": "Transfer Logic Exploit",
+    "bridge": true,
+    "link": "https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Rugpull",
+    "date": 1690934400,
+    "target": "DeFi Protocol",
+    "amount": 23000000,
+    "name": "Bald",
+    "technique": "Drained Liquidity Pool",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/1686225428649062400",
+    "language": ""
+  },
+  {
+    "chains": [
+      "ICP"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1754956800,
+    "target": "DeFi Protocol",
+    "amount": 7000000,
+    "name": "Odin.Fun",
+    "technique": "Liquidity Manipulation Exploit",
+    "bridge": false,
+    "link": "https://uk.finance.yahoo.com/news/memecoin-launchpad-odin-fun-suffers-103510880.html",
+    "language": "Motoko"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1726790400,
+    "target": "DeFi Protocol",
+    "amount": 4900000,
+    "name": "OcelotDex",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/BlockscopeInc/status/1839049867987206329",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Cronos"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1708560000,
+    "target": "DeFi Protocol",
+    "amount": 250000,
+    "name": "Tectonic",
+    "technique": "Flashloan New Market Exploit",
+    "bridge": false,
+    "link": "https://cronoscan.com/tx/0x4c4584a57e5487a06e61c815c7ee368656ad58bd38774184eadcd97072dc1e4b",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1626220800,
+    "target": "DeFi Protocol",
+    "amount": 1260000,
+    "name": "ApeRocket",
+    "technique": "Flashloan Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://www.google.com/search?q=aperocketfi+hack&oq=aperocketfi+hack&aqs=chrome..69i57j33i10i160j33i21.3640j0j4&sourceid=chrome&ie=UTF-8",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1638230400,
+    "target": "DeFi Protocol",
+    "amount": 31400000,
+    "name": "MonoX",
+    "technique": "Swap Function Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/BlockSecTeam/status/1465690478414761992",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Hyperliquid L1"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1758931200,
+    "target": "DeFi Protocol",
+    "amount": 773000,
+    "name": "Hyperdrive HL",
+    "technique": "Router Exploit",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/1972119238178754651",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC",
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1729036800,
+    "target": "DeFi Protocol",
+    "amount": 53000000,
+    "name": "Radiant V2",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/AnciliaInc/status/1846618258163761551",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Bitcoin",
+      "Ethereum",
+      "Litecoin",
+      "Doge",
+      "BitcoinCash"
+    ],
+    "classification": "Infrastructure",
+    "date": 1758672000,
+    "target": "Other",
+    "amount": 24000000,
+    "name": "SBI Crypto",
+    "technique": "",
+    "bridge": false,
+    "link": "https://www.coindesk.com/business/2025/10/01/sbi-crypto-reportedly-hit-by-usd21m-hack-with-suspected-dprk-links",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1759536000,
+    "target": "DeFi Protocol",
+    "amount": 1700000,
+    "name": "Abracadabra Spell",
+    "technique": "Sequential State Manipulation Exploit",
+    "bridge": false,
+    "link": "https://x.com/Phalcon_xyz/status/1974533451408986417",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1756684800,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "OlaXBT",
+    "technique": "Multisig wallet Social Engineering Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1962439772280094975",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1618790400,
+    "target": "DeFi Protocol",
+    "amount": 59000000,
+    "name": "EasyFi",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://medium.com/easify-network/easyfi-security-incident-pre-post-mortem-33f2942016e9",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1665014400,
+    "target": "DeFi Protocol",
+    "amount": 570000000,
+    "name": "Binance Bridge",
+    "technique": "Proof Verifier Bug",
+    "bridge": true,
+    "link": "https://twitter.com/samczsun/status/1578167198203289600",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Ecosystem",
+    "date": 1673913600,
+    "target": "DeFi Protocol",
+    "amount": 660000,
+    "name": "Midas Capital",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://rekt.news/midas-capital-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1720742400,
+    "target": "DeFi Protocol",
+    "amount": 1960000,
+    "name": "Dough Finance",
+    "technique": "Unvalidated call data exploit",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/dough-finance-loses-1-8m-flash-loan-attack",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1679011200,
+    "target": "NFTfi",
+    "amount": 5000000,
+    "name": "ParaSpace Lending V1",
+    "technique": "Borrow Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/BlockSecTeam/status/1636650252844294144?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1711670400,
+    "target": "DeFi Protocol",
+    "amount": 1400000,
+    "name": "Solareum",
+    "technique": "Private Key Compromised (Social Engineering)",
+    "bridge": false,
+    "link": "",
+    "language": "Move"
+  },
+  {
+    "chains": [
+      "Sei"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1757635200,
+    "target": "DeFi Protocol",
+    "amount": 1300000,
+    "name": "Kame Aggregator",
+    "technique": "swap() Function Flaw",
+    "bridge": false,
+    "link": "https://x.com/kame_agg/status/1967782820589568114",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Abstract"
+    ],
+    "classification": "Infrastructure",
+    "date": 1739836800,
+    "target": "DeFi Protocol",
+    "amount": 400000,
+    "name": "Cardex",
+    "technique": "Private Key Compromised (Session signer)",
+    "bridge": false,
+    "link": "https://x.com/0xCygaar/status/1891948692204368122",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Blast"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1711411200,
+    "target": "Gaming",
+    "amount": 62500000,
+    "name": "Munchables",
+    "technique": "Storage Slot Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/_munchables_/status/1772739713687752761",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1647993600,
+    "target": "DeFi Protocol",
+    "amount": 624000000,
+    "name": "Ronin Bridge",
+    "technique": "Private Key Compromised (Social Engineering)",
+    "bridge": true,
+    "link": "https://roninblockchain.substack.com/p/back-to-building-ronin-security-breach",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1644278400,
+    "target": "DeFi Protocol",
+    "amount": 8700000,
+    "name": "Superfluid",
+    "technique": "CTX Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/superfluid-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1691539200,
+    "target": "DeFi Protocol",
+    "amount": 540000,
+    "name": "Earning.Farm",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/CyversAlerts/status/1689193286420795393",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1651968000,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "Fortress Loans",
+    "technique": "Governance and Oracle Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/fortress-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "CORE"
+    ],
+    "classification": "Rugpull",
+    "date": 1758585600,
+    "target": "DeFi Protocol",
+    "amount": 430000,
+    "name": "Corepound",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://x.com/coreecosystem/status/1970584860516651113",
+    "language": ""
+  },
+  {
+    "chains": [
+      "zkSync Era"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1743206400,
+    "target": "DeFi Protocol",
+    "amount": 902000,
+    "name": "Venus Core Pool",
+    "technique": "Donation Attack",
+    "bridge": false,
+    "link": "https://x.com/yonikesel/status/1905993100738134408",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1670630400,
+    "target": "DeFi Protocol",
+    "amount": 6900000,
+    "name": "Lodestar V0",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/BowTiedPickle/status/1601650177369993216?s=20&t=lv-ruhz34Xz7S_fZVFZj7w",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon",
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1636070400,
+    "target": "DeFi Protocol",
+    "amount": 55000000,
+    "name": "Ooki",
+    "technique": "Private Key Compromised (Phishing)",
+    "bridge": false,
+    "link": "https://medium.com/tidal-finance/bzx-incident-report-e36828347a86",
+    "language": ""
+  },
+  {
+    "chains": [
+      "zkSync Era",
+      "Linea",
+      "Metis"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1721088000,
+    "target": "DeFi Protocol",
+    "amount": 9730000,
+    "name": "LiFi Finance",
+    "technique": "Router Exploit via Infinite Approvals",
+    "bridge": true,
+    "link": "https://x.com/RektHQ/status/1813329331105726812",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1718236800,
+    "target": "DeFi Protocol",
+    "amount": 6700000,
+    "name": "Holograph",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://www.coindesk.com/tech/2024/06/13/hlg-down-over-60-as-exploiter-mints-1-billion-new-tokens/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1612828800,
+    "target": "DeFi Protocol",
+    "amount": 1300000,
+    "name": "Growth DeFi",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/the-big-combo/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1745625600,
+    "target": "DeFi Protocol",
+    "amount": 5800000,
+    "name": "Loopscale",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/LoopscaleLabs/status/1916183179469246626",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Tron"
+    ],
+    "classification": "Infrastructure",
+    "date": 1690329600,
+    "target": "CEX",
+    "amount": 60000000,
+    "name": "AlphaPo",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/alphapo-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1693785600,
+    "target": "Other",
+    "amount": 41300000,
+    "name": "Stake.com",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/web3isgreat/status/1698750534025441678",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1721692800,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "DeltaPrime",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/DeltaPrimeDefi/status/1815536737206026346",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Infrastructure",
+    "date": 1652400000,
+    "target": "DeFi Protocol",
+    "amount": 21800000,
+    "name": "Blizz Finance",
+    "technique": "Outdated Oracle Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/venus-blizz-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1621209600,
+    "target": "DeFi Protocol",
+    "amount": 18000000,
+    "name": "BearnFi",
+    "technique": "Flashloan Withdraw Logic Exploit",
+    "bridge": false,
+    "link": "https://peckshield.medium.com/bearn-fi-incident-inconsistent-asset-denomination-between-vault-strategy-9b24b68ab1c0",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1693958400,
+    "target": "DeFi Protocol",
+    "amount": 815000,
+    "name": "GMBL.COMPUTER",
+    "technique": "Referral Claims Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/ImmuneBytes/status/1699338311230214536",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1663459200,
+    "target": "DeFi Protocol",
+    "amount": 565000,
+    "name": "GMX V1 Perps",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/jayantkrish/status/1571893643178569728?s=20&t=O--bs-V1Xnkmzm2JZOdZsw",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Fantom"
+    ],
+    "classification": "Ecosystem",
+    "date": 1639785600,
+    "target": "DeFi Protocol",
+    "amount": 30000000,
+    "name": "Grim Finance",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/RugDocIO/status/1472293717725913089",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1646265600,
+    "target": "DeFi Protocol",
+    "amount": 1400000,
+    "name": "Treasure",
+    "technique": "Buy Function Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/sniko_/status/1499202361180442627?s=20&t=PmAlFn3y2dhQSStkXyDCDA",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1687824000,
+    "target": "DeFi Protocol",
+    "amount": 370000,
+    "name": "Themis Protocol",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1673778002373509121",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1680393600,
+    "target": "DeFi Protocol",
+    "amount": 650000,
+    "name": "Allbridge Core",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": true,
+    "link": "https://allbridge.medium.com/allbridge-core-updates-following-the-relaunch-9f7716eeb5da",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1700265600,
+    "target": "Other",
+    "amount": 26000000,
+    "name": "Kronos Research",
+    "technique": "API Key unauthorized access",
+    "bridge": false,
+    "link": "https://twitter.com/ResearchKronos/status/1726013733888041376",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1690675200,
+    "target": "DeFi Protocol",
+    "amount": 61700000,
+    "name": "Curve DEX",
+    "technique": "Vyper Compiler Bug",
+    "bridge": false,
+    "link": "https://twitter.com/spreekaway/status/1685669149911990273",
+    "language": "Vyper"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1648857600,
+    "target": "DeFi Protocol",
+    "amount": 15600000,
+    "name": "Inverse Finance Frontier",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1510239094777032713?s=20&t=RBNXo-6wEDCiBE5a9nO0-Q",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Comdex"
+    ],
+    "classification": "",
+    "date": 1692403200,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Harbor Protocol",
+    "technique": "",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1692852140199522716",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1686528000,
+    "target": "DeFi Protocol",
+    "amount": 770000,
+    "name": "Sturdy V1",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/blocksecteam/status/1668084629654638592",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1700611200,
+    "target": "DeFi Protocol",
+    "amount": 86600000,
+    "name": "Heco Bridge",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": true,
+    "link": "https://twitter.com/TheBlock__/status/1727397707843621201",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1705017600,
+    "target": "DeFi Protocol",
+    "amount": 464000,
+    "name": "Wise Lending V1",
+    "technique": "Rounding Donation Attack",
+    "bridge": false,
+    "link": "https://twitter.com/spreekaway/status/1745892488127070270",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1587254400,
+    "target": "DeFi Protocol",
+    "amount": 1200000,
+    "name": "Lendf.me",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://slowmist.medium.com/slowmist-details-of-lendf-me-reentrancy-attack-3e168ab5f2b1",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Nervos"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1749168000,
+    "target": "DeFi Protocol",
+    "amount": 3900000,
+    "name": "ForceBridge",
+    "technique": "Acces Control Exploit",
+    "bridge": true,
+    "link": "https://x.com/hackenclub/status/1929451310060892202",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Avalanche",
+      "Arbitrum",
+      "Base",
+      "Optimism",
+      "Mantle",
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1755129600,
+    "target": "CEX",
+    "amount": 48000000,
+    "name": "BtcTurk\n",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1955967877602803929",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche",
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1670889600,
+    "target": "DeFi Protocol",
+    "amount": 854000,
+    "name": "ElasticSwap",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/ElasticSwap/status/1602582495819694081",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1698796800,
+    "target": "DeFi Protocol",
+    "amount": 2100000,
+    "name": "Onyx Protocol",
+    "technique": "Flashloan Donate Function Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/decurityhq/status/1719657969925677161",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Polygon",
+      "BSC",
+      "Blast",
+      "Avalanche",
+      "Arbitrum",
+      "Optimism",
+      "Base",
+      "zkSync Era",
+      "Polygon zkEVM"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1713830400,
+    "target": "DeFi Protocol",
+    "amount": 129000,
+    "name": "Magpie Protocol",
+    "technique": "Router Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/magpieprotocol/status/1782708631126819137",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1681516800,
+    "target": "DeFi Protocol",
+    "amount": 7000000,
+    "name": "Hundred Finance",
+    "technique": "Flashloan Donate Function Logic Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/hundred-rekt2/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Rugpull",
+    "date": 1676851200,
+    "target": "DeFi Protocol",
+    "amount": 1860000,
+    "name": "Hope Finance",
+    "technique": "Router Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Cointelegraph/status/1627976451814490113",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Bitcoin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1609113600,
+    "target": "Other",
+    "amount": 3500000000,
+    "name": "LuBian",
+    "technique": "Private Key Compromised (Brute Force)",
+    "bridge": false,
+    "link": "https://x.com/arkham/status/1951729790299394113",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Terra"
+    ],
+    "classification": "Infrastructure",
+    "date": 1633651200,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "Mirror",
+    "technique": "Outdated Oracle Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/FatManTerra/status/1531365988809293825?s=20&t=o8YSLZ0o7gAdHOxdVeuPcg",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Mode"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1738627200,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "Ionic Protocol",
+    "technique": "Fake Collateral Exploit",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1886829735130407065",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1612483200,
+    "target": "DeFi Protocol",
+    "amount": 11000000,
+    "name": "Yearn Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/yearn-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1701302400,
+    "target": "DeFi Protocol",
+    "amount": 1450000,
+    "name": "Florence Finance",
+    "technique": "Address Poisoning",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1730045158509727968",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1620432000,
+    "target": "DeFi Protocol",
+    "amount": 10000000,
+    "name": "Rari Capital",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1391087260125188099",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1587254400,
+    "target": "DeFi Protocol",
+    "amount": 25000000,
+    "name": "dForce Lending",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://decrypt.co/26033/dforce-lendfme-defi-hack-25m",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1631404800,
+    "target": "DeFi Protocol",
+    "amount": 3200000,
+    "name": "Zabu Finance",
+    "technique": "Flashloan Exploit",
+    "bridge": false,
+    "link": "https://www.immunebytes.com/blog/zabu-finance-hack-sep-12-2021-detailed-analysis-report/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Rugpull",
+    "date": 1692921600,
+    "target": "DeFi Protocol",
+    "amount": 6400000,
+    "name": "Magnate Finance",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1694946221788729440",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767657600,
+    "target": "DeFi Protocol",
+    "amount": 336000,
+    "name": "Fusion by IPOR",
+    "technique": "EIP-7702 Delegation Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2008740020933578906",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1680566400,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "Sentiment",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/spreekaway/status/1643314142214758410?t=Lsj87_GeYV3YDlVXX4bFHQ&s=19",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Sonic"
+    ],
+    "classification": "Infrastructure",
+    "date": 1754265600,
+    "target": "DeFi Protocol",
+    "amount": 4500000,
+    "name": "CrediX",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1952299850650747079",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1626393600,
+    "target": "DeFi Protocol",
+    "amount": 2400000,
+    "name": "Bunny",
+    "technique": "Flashloan Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://pancakebunny.medium.com/polybunny-post-mortem-compensation-42b5c35ce957",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Rugpull",
+    "date": 1624406400,
+    "target": "DeFi Protocol",
+    "amount": 27000000,
+    "name": "StableMagnet",
+    "technique": "Drained Contracts and User Wallets",
+    "bridge": false,
+    "link": "https://twitter.com/RugDocIO/status/1407830298251964427?s=20&t=ABcGHyHjFWrkOL8Ya2qfKQ",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Gnosis Chain"
+    ],
+    "classification": "Ecosystem",
+    "date": 1647302400,
+    "target": "DeFi Protocol",
+    "amount": 5500000,
+    "name": "Agave",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://rekt.news/agave-hundred-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Rugpull",
+    "date": 1686355200,
+    "target": "DeFi Protocol",
+    "amount": 116000,
+    "name": "Atlantis Loans",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1667624256111276033",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1681430400,
+    "target": "CEX",
+    "amount": 23000000,
+    "name": "Bitrue",
+    "technique": "Hot wallet hack",
+    "bridge": false,
+    "link": "https://twitter.com/BTCTN/status/1646915702907973632",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767225600,
+    "target": "DeFi Protocol",
+    "amount": 97000,
+    "name": "PRXVT",
+    "technique": "Sybil Attack with CREATE2 Addresses",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2006653156927889666",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1644105600,
+    "target": "DeFi Protocol",
+    "amount": 7700000,
+    "name": "Meter",
+    "technique": "Deposit Function Exploit",
+    "bridge": true,
+    "link": "https://twitter.com/ishwinder/status/1490227406824685569?s=20&t=_Ypi0s4w213ow0Rdgp4tmw",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1628553600,
+    "target": "DeFi Protocol",
+    "amount": 8950000,
+    "name": "Punk Protocol",
+    "technique": "Delegatecall Exploit",
+    "bridge": false,
+    "link": "https://medium.com/punkprotocol/punk-finance-fair-launch-incident-report-984d9e340eb",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767571200,
+    "target": "DeFi Protocol",
+    "amount": 1400000,
+    "name": "TMX TRIBE",
+    "technique": "Mint & Stake Loop Exploit",
+    "bridge": false,
+    "link": "https://x.com/certikalert/status/2008360565010559045",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Optimism",
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1733011200,
+    "target": "DeFi Protocol",
+    "amount": 450000,
+    "name": "Clipper",
+    "technique": "API Signature Exploit",
+    "bridge": false,
+    "link": "https://x.com/Clipper_DEX/status/1863263893470003460",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Rugpull",
+    "date": 1671840000,
+    "target": "DeFi Protocol",
+    "amount": 6000000,
+    "name": "Defrost",
+    "technique": "Oracle Manipulation",
+    "bridge": false,
+    "link": "https://de.fi/blog/exclusive-the-defrost-team-rug-pulled-12m-7m-999b24c13f47",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1729123200,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Ambient",
+    "technique": "Domain Hijack",
+    "bridge": false,
+    "link": "https://x.com/ambient_finance/status/1846895776116379747",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1671148800,
+    "target": "DeFi Protocol",
+    "amount": 4400000,
+    "name": "Raydium AMM",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/osec_io/status/1603763023151509505?s=20&t=_J9Y8NV-o0QeXHtnkyR-4A",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Rugpull",
+    "date": 1635897600,
+    "target": "Gaming",
+    "amount": 3400000,
+    "name": "Squid Games",
+    "technique": "Drained Liquidity Pool",
+    "bridge": false,
+    "link": "https://x.com/__tricck/status/1455083308702834690",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1753660800,
+    "target": "DeFi Protocol",
+    "amount": 730000,
+    "name": "SuperRare",
+    "technique": "updateMerkleRoot Access Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1949772114309132363",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Bitcoin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1717113600,
+    "target": "CEX",
+    "amount": 305000000,
+    "name": "DMM Bitcoin",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/Cointelegraph/status/1796544899606524310",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1605312000,
+    "target": "DeFi Protocol",
+    "amount": 7000000,
+    "name": "ValueDefi",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/value-defi-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1709164800,
+    "target": "Other",
+    "amount": 3300000,
+    "name": "Shido",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/shido-token-plummet-attacker-drains-staking-contract",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1748217600,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "Dexodus Finance",
+    "technique": "Price Manipulation Attack",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/1927008251045929463",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base",
+      "Unichain",
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1756080000,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Panoptic V1.1",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/Panoptic_xyz/status/1964010635026715015",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1700265600,
+    "target": "DeFi Protocol",
+    "amount": 9000000,
+    "name": "dYdX V3",
+    "technique": "Price Manipulation Attack",
+    "bridge": false,
+    "link": "https://twitter.com/AntonioMJuliano/status/1725926693440045389",
+    "language": ""
+  },
+  {
+    "chains": [
+      "zkSync Era"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1731283200,
+    "target": "DeFi Protocol",
+    "amount": 200000,
+    "name": "zkFinance",
+    "technique": "Oracle Misconfiguration Exploit",
+    "bridge": false,
+    "link": "https://x.com/spreekaway/status/1856101815995011427",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1630195200,
+    "target": "DeFi Protocol",
+    "amount": 4500000,
+    "name": "xToken",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://medium.com/xtoken/xsnx-post-mortem-666d35071f38",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Sui"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1760486400,
+    "target": "DeFi Protocol",
+    "amount": 3400000,
+    "name": "Typus Perp",
+    "technique": "TLP Contract Exploit",
+    "bridge": false,
+    "link": "https://x.com/TypusFinance/status/1978465485395304778",
+    "language": "Move"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum",
+      "Base",
+      "Solana"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1761782400,
+    "target": "DeFi Protocol",
+    "amount": 10800000,
+    "name": "Garden",
+    "technique": "Private Key Compromised",
+    "bridge": true,
+    "link": "https://x.com/QuillAudits_AI/status/1983910001350783316",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Polygon"
+    ],
+    "classification": "Ecosystem",
+    "date": 1673395200,
+    "target": "DeFi Protocol",
+    "amount": 80000,
+    "name": "Roe Finance",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/spreekaway/status/1613205435762495488",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1704326400,
+    "target": "DeFi Protocol",
+    "amount": 4500000,
+    "name": "Gamma",
+    "technique": "Price Manipulation Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshieldalert/status/1742753372334399513",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1722902400,
+    "target": "DeFi Protocol",
+    "amount": 12000000,
+    "name": "Ronin Bridge",
+    "technique": "MEV bot manipulation exploit",
+    "bridge": true,
+    "link": "https://x.com/Ronin_Network/status/1820804772917588339",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Icon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1674259200,
+    "target": "DeFi Protocol",
+    "amount": 1891000,
+    "name": "Omm",
+    "technique": "Redeem Function Exploit",
+    "bridge": false,
+    "link": "https://forum.omm.finance/t/omm-exploit-postmortem-january-2023/266",
+    "language": "Java"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1727308800,
+    "target": "DeFi Protocol",
+    "amount": 1700000,
+    "name": "uniBTC",
+    "technique": "Minting Logic Exploit",
+    "bridge": false,
+    "link": "https://x.com/phtevenstrong/status/1839389432975397017",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC",
+      "Base",
+      "Taiko"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1744588800,
+    "target": "DeFi Protocol",
+    "amount": 7500000,
+    "name": "KiloEx",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/shoucccc/status/1911862514440376446",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1733788800,
+    "target": "DeFi Protocol",
+    "amount": 500000,
+    "name": "Clober Liquidity Vault",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://x.com/peckshieldalert/status/1866434326596112705",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1773705600,
+    "target": "DeFi Protocol",
+    "amount": 257000,
+    "name": "dTRINITY dLEND",
+    "technique": "Deposit Inflation Attack",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/2033869333781180654",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1638403200,
+    "target": "DeFi Protocol",
+    "amount": 120000000,
+    "name": "Badger DAO",
+    "technique": "Cloudflare Key Compromised",
+    "bridge": false,
+    "link": "https://badger.com/technical-post-mortem",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1722470400,
+    "target": "DeFi Protocol",
+    "amount": 210000,
+    "name": "Convergence",
+    "technique": "Missing Input Validation",
+    "bridge": false,
+    "link": "https://www.coindesk.com/markets/2024/08/01/defi-protocol-convergence-hacked-cvg-token-plunges-99-on-curve/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Hyperliquid L1"
+    ],
+    "classification": "Infrastructure",
+    "date": 1763769600,
+    "target": "DeFi Protocol",
+    "amount": 18500,
+    "name": "Raga Finance",
+    "technique": "HyperEVM Delta Neutral Exploit",
+    "bridge": false,
+    "link": "https://x.com/ragafinance/status/1994384974049591647",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1707782400,
+    "target": "CEX",
+    "amount": 4600000,
+    "name": "DuelBits",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1757681640384381238",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Infrastructure",
+    "date": 1654387200,
+    "target": "DeFi Protocol",
+    "amount": 27600000,
+    "name": "Wintermute",
+    "technique": "Cross Chain Multisig Deployment Exploit",
+    "bridge": false,
+    "link": "https://banteg.mirror.xyz/iZAsBNL3j_5NIAY2Erav1r7Q4ecc7SC76AfMjyScs34",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1693526400,
+    "target": "DeFi Protocol",
+    "amount": 175000,
+    "name": "SharedStake",
+    "technique": "Ownership Override Attack",
+    "bridge": false,
+    "link": "https://twitter.com/spreekaway/status/1697612239929246022",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Neutron"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1765670400,
+    "target": "DeFi Protocol",
+    "amount": 960000,
+    "name": "Mars Perps",
+    "technique": "Thin-Market Skew Exploit",
+    "bridge": false,
+    "link": "https://x.com/mars_protocol/status/2000283619361800307",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1733270400,
+    "target": "DeFi Protocol",
+    "amount": 500000,
+    "name": "Vestra DAO",
+    "technique": "Staking Logic Exploit",
+    "bridge": false,
+    "link": "https://x.com/_czepluch/status/1866112404242743590",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1634169600,
+    "target": "DeFi Protocol",
+    "amount": 16000000,
+    "name": "Indexed Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://ndxfi.medium.com/indexed-attack-post-mortem-b006094f0bdc",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Tron",
+      "BitcoinCash"
+    ],
+    "classification": "Infrastructure",
+    "date": 1694736000,
+    "target": "CEX",
+    "amount": 2700000,
+    "name": "Remitano",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/CyversAlerts/status/1702348063145165016/photo/1",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772841600,
+    "target": "Other",
+    "amount": 127000,
+    "name": "Molt EVM",
+    "technique": "onlySpawnerToken Modifier Hack",
+    "bridge": false,
+    "link": "https://x.com/DefimonAlerts/status/2030273132871741800",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1678233600,
+    "target": "DAO",
+    "amount": 120000,
+    "name": "PeopleDAO",
+    "technique": "Social Engineering",
+    "bridge": false,
+    "link": "https://twitter.com/The_PeopleDAO/status/1634518915668668416?s=20",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1686960000,
+    "target": "DeFi Protocol",
+    "amount": 600000,
+    "name": "Midas Capital",
+    "technique": "Redeem Rounding Error Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1670148905810403330?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC",
+      "Bitcoin"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1633305600,
+    "target": "DeFi Protocol",
+    "amount": 13000000,
+    "name": "pNetwork",
+    "technique": "Log Spoofing",
+    "bridge": true,
+    "link": "https://www.halborn.com/blog/post/explained-the-pnetwork-hack-september-2021",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1757462400,
+    "target": "DeFi Protocol",
+    "amount": 420000,
+    "name": "Evoq Finance",
+    "technique": "Advanced Persistent Threat (APT) attack",
+    "bridge": false,
+    "link": "https://x.com/Evoq_Finance/status/1965691948939014408",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1765497600,
+    "target": "DeFi Protocol",
+    "amount": 2700000,
+    "name": "Ribbon",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/specteranalyst/status/1999532982411854109",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1601337600,
+    "target": "CEX",
+    "amount": 45000000,
+    "name": "KuCoin",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/epic-hack-homie/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Rugpull",
+    "date": 1721606400,
+    "target": "DeFi Protocol",
+    "amount": 2100000,
+    "name": "ETHTrustFund",
+    "technique": "Transferred Treasury to Mixers",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/ethtrustfund-dao-transfers-treasury-apparent-rug-pull",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Berachain"
+    ],
+    "classification": "Infrastructure",
+    "date": 1741910400,
+    "target": "DeFi Protocol",
+    "amount": 90000,
+    "name": "Berally",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/Berally_io/status/1900732333562744870",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1698710400,
+    "target": "DeFi Protocol",
+    "amount": 640000,
+    "name": "Unibot",
+    "technique": "Token approval exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1719223437024284978",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1748390400,
+    "target": "DeFi Protocol",
+    "amount": 12000000,
+    "name": "Cork V1",
+    "technique": "Access control bypass via hook",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1927701403092316254",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1679961600,
+    "target": "DeFi Protocol",
+    "amount": 8900000,
+    "name": "Safemoon",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/MoonMark_/status/1640844732082290688?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "PolyNetwork"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1723420800,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "PolyNetwork",
+    "technique": "Reentrancy",
+    "bridge": true,
+    "link": "https://medium.com/flamingo-finance/poly-network-bridge-exploit-and-the-asset-support-initiative-c80c636255bb",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1668211200,
+    "target": "CEX",
+    "amount": 450000000,
+    "name": "FTX",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/zachxbt/status/1591475246250733568?s=20&t=jbwCEhQZKfWFnLPtCwErAg",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1718841600,
+    "target": "CEX",
+    "amount": 14000,
+    "name": "OKX NFT Aggregator",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/shoucccc/status/1803973429345030381",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Base",
+      "Polygon",
+      "Optimism",
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1700611200,
+    "target": "DeFi Protocol",
+    "amount": 48000000,
+    "name": "KyberSwap Elastic",
+    "technique": "Flashloan Swap Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/KyberNetwork/status/1727475235342217682",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1691884800,
+    "target": "DeFi Protocol",
+    "amount": 2100000,
+    "name": "Zunami Protocol",
+    "technique": "Price Manipulation Attack",
+    "bridge": false,
+    "link": "https://twitter.com/decryptmedia/status/1690946389323157504",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum",
+      "Base",
+      "Polygon",
+      "Sonic",
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1762128000,
+    "target": "DeFi Protocol",
+    "amount": 128000000,
+    "name": "Balancer V2",
+    "technique": "Composable Stable Pools Exploit",
+    "bridge": false,
+    "link": "https://x.com/lookonchain/status/1985258890863501820",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1688428800,
+    "target": "DeFi Protocol",
+    "amount": 90000,
+    "name": "Rodeo",
+    "technique": "Mint Reserves Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Phalcon_xyz/status/1676511696603729921?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "NEM"
+    ],
+    "classification": "Infrastructure",
+    "date": 1516924800,
+    "target": "CEX",
+    "amount": 534000000,
+    "name": "Coincheck",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://www.bbc.com/news/world-asia-42845505",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1510185600,
+    "target": "DeFi Protocol",
+    "amount": 150000000,
+    "name": "Parity Multisig",
+    "technique": "Contract not initialized",
+    "bridge": false,
+    "link": "https://blog.openzeppelin.com/on-the-parity-wallet-multisig-hack-405a8c12e8f7",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1684886400,
+    "target": "DeFi Protocol",
+    "amount": 118000,
+    "name": "Local Traders",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/BeosinAlert/status/1661210668291489794",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Ecosystem",
+    "date": 1715731200,
+    "target": "DeFi Protocol",
+    "amount": 20000000,
+    "name": "Sonne Finance",
+    "technique": "Flashloan Donate Function Logic Exploit",
+    "bridge": false,
+    "link": "https://medium.com/@SonneFinance/post-mortem-sonne-finance-exploit-12f3daa82b06",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Tron",
+      "BSC",
+      "Bitcoin",
+      "Polkadot",
+      "Avalanche"
+    ],
+    "classification": "Infrastructure",
+    "date": 1685750400,
+    "target": "Wallet",
+    "amount": 100000000,
+    "name": "Atomic Wallet",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/tayvano_/status/1668778031790587905?t=ZXAVt7ExhHZcGIzs5ZD33w&s=19",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1639180800,
+    "target": "CEX",
+    "amount": 77000000,
+    "name": "AscenDEX",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://rekt.news/ascendex-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1733011200,
+    "target": "DeFi Protocol",
+    "amount": 200000,
+    "name": "Spectral Labs",
+    "technique": "Bonding Curve Exploit",
+    "bridge": false,
+    "link": "https://x.com/Spectral_Labs/status/1863212410070253824",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base",
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1762214400,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "Moonwell Lending",
+    "technique": "Oracle Price Feed Manipulation",
+    "bridge": false,
+    "link": "https://x.com/getfailsafe/status/1985628261913919702",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1769817600,
+    "target": "DeFi Protocol",
+    "amount": 40000000,
+    "name": "Step Finance",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/StepFinance_/status/2018379876642804213",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Gnosis Chain"
+    ],
+    "classification": "Ecosystem",
+    "date": 1647302400,
+    "target": "DeFi Protocol",
+    "amount": 6200000,
+    "name": "Hundred Finance",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://rekt.news/agave-hundred-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1669939200,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Ankr",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/ankr/status/1598503332477280256",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1630281600,
+    "target": "DeFi Protocol",
+    "amount": 18800000,
+    "name": "CREAM Lending",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1432249600002478081",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1667260800,
+    "target": "CEX",
+    "amount": 28000000,
+    "name": "Deribit",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/DeribitExchange/status/1587701883778523136",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum",
+      "Avalanche"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1731283200,
+    "target": "DeFi Protocol",
+    "amount": 4800000,
+    "name": "DeltaPrime",
+    "technique": "Debt Swap Exploit",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/1855900790063607929",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Shibarium"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1757721600,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "Shibarium",
+    "technique": "Validator Stake Manipulation by Flashloan",
+    "bridge": true,
+    "link": "https://x.com/0xZilayo/status/1966785029968724351",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Rugpull",
+    "date": 1679875200,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "Kokomo Finance",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1640118618548568069",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1731715200,
+    "target": "Wallet",
+    "amount": 21000000,
+    "name": "DEXX",
+    "technique": "Private Key Compromised (Stored Publicly)",
+    "bridge": false,
+    "link": "https://x.com/DEXXai_EN/status/1857830993656418763",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1709596800,
+    "target": "DeFi Protocol",
+    "amount": 8500000,
+    "name": "WOOFi Swap",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://twitter.com/peckshieldalert/status/1765054155478175943",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1711584000,
+    "target": "DeFi Protocol",
+    "amount": 11600000,
+    "name": "PrismaLST",
+    "technique": "Flashloan Trove Manipulation",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1773345454832378109",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Iota"
+    ],
+    "classification": "Infrastructure",
+    "date": 1581465600,
+    "target": "Wallet",
+    "amount": 2350000,
+    "name": "Trinity Wallet",
+    "technique": "Cloudflare Key Compromised",
+    "bridge": false,
+    "link": "https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8/",
+    "language": ""
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1719878400,
+    "target": "DeFi Protocol",
+    "amount": 8000000,
+    "name": "Bittensor",
+    "technique": "Private Key Compromised (Supply Chain Attack)",
+    "bridge": false,
+    "link": "https://x.com/vishal4c/status/1808332836484927677",
+    "language": "Python"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1742860800,
+    "target": "DeFi Protocol",
+    "amount": 13000000,
+    "name": "Abracadabra Spell",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/1904501599848038490",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1638576000,
+    "target": "CEX",
+    "amount": 196000000,
+    "name": "Bitmart",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/bitmart-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Heco"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1673827200,
+    "target": "DeFi Protocol",
+    "amount": 6000000,
+    "name": "LendHub",
+    "technique": "Collateral Offboarding Mistake",
+    "bridge": false,
+    "link": "https://twitter.com/SlowMist_Team/status/1613906590574198784?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1614902400,
+    "target": "DeFi Protocol",
+    "amount": 27000000,
+    "name": "Paid Network",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://rekt.news/paid-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1769644800,
+    "target": "DeFi Protocol",
+    "amount": 50000,
+    "name": "Revert Lend",
+    "technique": "Staked Collateral Exploit",
+    "bridge": false,
+    "link": "https://x.com/revertfinance/status/2017087480772600157",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1632873600,
+    "target": "DeFi Protocol",
+    "amount": 147000000,
+    "name": "Compound V2",
+    "technique": "Math Mistake Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/compound-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1755043200,
+    "target": "CEX",
+    "amount": 300000,
+    "name": "Coinbase",
+    "technique": "MEV composability attack",
+    "bridge": false,
+    "link": "https://x.com/deeberiroz/status/1955718986894549344",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Terra2"
+    ],
+    "classification": "Infrastructure",
+    "date": 1722384000,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Terra 2.0",
+    "technique": "IBC hooks exploit",
+    "bridge": false,
+    "link": "https://medium.com/@Rarma_/terra-ibc-hooks-exploit-21cca87d70a4",
+    "language": "Golang"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1705363200,
+    "target": "DeFi Protocol",
+    "amount": 3300000,
+    "name": "Bungee",
+    "technique": "Missing Input Validation",
+    "bridge": true,
+    "link": "https://www.dlnews.com/articles/defi/hacker-swipes-33m-from-bungee-crypto-bridge-users/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1709078400,
+    "target": "DeFi Protocol",
+    "amount": 6500000,
+    "name": "Seneca",
+    "technique": "Token approval exploit",
+    "bridge": false,
+    "link": "https://twitter.com/spreekaway/status/1762857769714012217",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Fuse"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1648684800,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "Ola Finance",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://www.coindesk.com/tech/2022/03/31/ola-finance-exploited-for-36m-in-re-entrancy-attack/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Fantom"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1685664000,
+    "target": "DeFi Protocol",
+    "amount": 653000,
+    "name": "Hector Lending",
+    "technique": "Unknown",
+    "bridge": true,
+    "link": "https://twitter.com/Hector_Network/status/1664720154595414019",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Sonic"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1754784000,
+    "target": "DeFi Protocol",
+    "amount": 320000,
+    "name": "numa.",
+    "technique": "NumaVault Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1954758545859375266",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1760918400,
+    "target": "DeFi Protocol",
+    "amount": 146000,
+    "name": "Sharwa.Finance",
+    "technique": "Price Manipulation Attack",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/1980157251550670992",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Rugpull",
+    "date": 1614816000,
+    "target": "DeFi Protocol",
+    "amount": 32000000,
+    "name": "Meerkat Finance",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://rekt.news/meerkat-finance-bsc-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Fantom",
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1714867200,
+    "target": "DeFi Protocol",
+    "amount": 1270000,
+    "name": "GeniusAI",
+    "technique": "Private Key Compromised (Discord Hack)",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/gnus-discord-hack-causes-1-27-million-losses",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1735430400,
+    "target": "DeFi Protocol",
+    "amount": 900000,
+    "name": "Fegex",
+    "technique": "Missing Access Control",
+    "bridge": false,
+    "link": "https://x.com/Phalcon_xyz/status/1873634026444968034",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1624924800,
+    "target": "DeFi Protocol",
+    "amount": 330000,
+    "name": "Merlin",
+    "technique": "Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/merlin3-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1626307200,
+    "target": "DeFi Protocol",
+    "amount": 5900000,
+    "name": "Bondly",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/bondly-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Linea",
+      "zkSync Era"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1717286400,
+    "target": "DeFi Protocol",
+    "amount": 6800000,
+    "name": "Velocore V2",
+    "technique": "Fee Overflow Exploit",
+    "bridge": false,
+    "link": "https://x.com/velocorexyz/status/1797229772399067587",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Rugpull",
+    "date": 1659916800,
+    "target": "DeFi Protocol",
+    "amount": 3500000,
+    "name": "Dragoma",
+    "technique": "Drain Vaults",
+    "bridge": false,
+    "link": "https://www.coindesk.com/business/2022/08/08/polygon-based-web3-game-dragoma-supporters-fall-victim-to-35m-rug-pull-peckshield/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1758499200,
+    "target": "DeFi Protocol",
+    "amount": 11300000,
+    "name": "UXLINK",
+    "technique": "Delegatecall Exploit",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1970167036002132425",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1703980800,
+    "target": "DeFi Protocol",
+    "amount": 81700000,
+    "name": "Orbit Bridge",
+    "technique": "Signature Exploit",
+    "bridge": true,
+    "link": "https://cointelegraph.com/news/cross-chain-protocol-orbit-bridge-suffers-exploit-hack",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1725321600,
+    "target": "DeFi Protocol",
+    "amount": 27000000,
+    "name": "Penpie",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://x.com/shoucccc/status/1831044487323529639",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Sui"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1757289600,
+    "target": "DeFi Protocol",
+    "amount": 2400000,
+    "name": "Nemo Yield Trading",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1964942965098656034",
+    "language": "Move"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1613174400,
+    "target": "DeFi Protocol",
+    "amount": 37500000,
+    "name": "Alpha Finance",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://blog.alphaventuredao.io/alpha-homora-v2-post-mortem/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1745107200,
+    "target": "CEX",
+    "amount": 100000000,
+    "name": "Bitget",
+    "technique": "Market-Making Bot Exploit",
+    "bridge": false,
+    "link": "https://x.com/0xDamix/status/1913918706985623945",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1765843200,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "Yearn Finance",
+    "technique": "misconfigured Fulcrum sUSD strategy",
+    "bridge": false,
+    "link": "https://x.com/peckshieldalert/status/2001080131360842011",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Ecosystem",
+    "date": 1689984000,
+    "target": "Other",
+    "amount": 37300000,
+    "name": "CoinsPaid",
+    "technique": "Social Engineering",
+    "bridge": false,
+    "link": "https://twitter.com/coinspaid/status/1684297537010774017",
+    "language": ""
+  },
+  {
+    "chains": [],
+    "classification": "Protocol Logic",
+    "date": 1769904000,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "CrossCurve",
+    "technique": "Spoofed Cross-Chain Messages",
+    "bridge": true,
+    "link": "https://x.com/DecryptMedia/status/2018198913124118558",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1621987200,
+    "target": "DeFi Protocol",
+    "amount": 550000,
+    "name": "Merlin",
+    "technique": "Math Mistake Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/merlin2-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1752883200,
+    "target": "CEX",
+    "amount": 44200000,
+    "name": "CoinDCX",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/CryptooIndia/status/1946596846052458548",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Bitcoin",
+      "Ethereum",
+      "XRP",
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1714348800,
+    "target": "CEX",
+    "amount": 14800000,
+    "name": "Rain",
+    "technique": "",
+    "bridge": false,
+    "link": "https://twitter.com/CoinDesk/status/1790197230915194916",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "",
+    "date": 1729728000,
+    "target": "Other",
+    "amount": 20000000,
+    "name": "US Government Crypto Wallet",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/decryptmedia/status/1849540098607415441",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1671926400,
+    "target": "DeFi Protocol",
+    "amount": 1410000,
+    "name": "Rubic",
+    "technique": "Router Exploit",
+    "bridge": true,
+    "link": "https://twitter.com/peckshield/status/1606937055761952770?s=20&t=Vdvjv2C7zUazmgvQ2SOQow",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1757376000,
+    "target": "CEX",
+    "amount": 41500000,
+    "name": "SwissBorg",
+    "technique": "Third-party API compromise",
+    "bridge": false,
+    "link": "https://x.com/rishabhsrishi/status/1965115870042263828",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1745280000,
+    "target": "DeFi Protocol",
+    "amount": 1300000,
+    "name": "Bitcoin Mission",
+    "technique": "overPaper Function Exploit",
+    "bridge": false,
+    "link": "https://x.com/officer_cia/status/1914690926695362685",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1702425600,
+    "target": "DeFi Protocol",
+    "amount": 2700000,
+    "name": "OKX DEX",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/TheBlock__/status/1734921504523956630",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Fantom"
+    ],
+    "classification": "Ecosystem",
+    "date": 1615766400,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "DEUS Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1503632734299701250",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1768262400,
+    "target": "DeFi Protocol",
+    "amount": 3730000,
+    "name": "YO Protocol",
+    "technique": "Slippage Exploit",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/2011069662377980147",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1629158400,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "SurgeBNB",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://beosin.medium.com/a-sweet-blow-fb0a5e08657d",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1736640000,
+    "target": "DeFi Protocol",
+    "amount": 197600,
+    "name": "Unilend V2",
+    "technique": "Redeem Process Exploit",
+    "bridge": false,
+    "link": "https://www.the-blockchain.com/2025/01/13/unilend-finance-losses-197-6k-to-a-redeem-process-vulnerability-exploit/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1647993600,
+    "target": "DeFi Protocol",
+    "amount": 48000000,
+    "name": "Cashio",
+    "technique": "Collateral Validation Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/samczsun/status/1506578902331768832?s=20&t=UL8INfwfJ5hgY7Vq9M3Sbw",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1466121600,
+    "target": "DeFi Protocol",
+    "amount": 60000000,
+    "name": "The DAO",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://ogucluturk.medium.com/the-dao-hack-explained-unfortunate-take-off-of-smart-contracts-2bd8c8db3562",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Ecosystem",
+    "date": 1658966400,
+    "target": "DeFi Protocol",
+    "amount": 3500000,
+    "name": "Nirvana V1",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/osec_io/status/1552589378719207424?s=20&t=I8QXz7iG0z7hjvfCA579LA",
+    "language": "Rust"
+  },
+  {
+    "chains": [],
+    "classification": "",
+    "date": 1719014400,
+    "target": "CEX",
+    "amount": 54000000,
+    "name": "BtcTurk",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/wublockchain/status/1804487593062752260",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1748304000,
+    "target": "DeFi Protocol",
+    "amount": 43000,
+    "name": "Usual USD0",
+    "technique": "Arbitration Exploit",
+    "bridge": false,
+    "link": "https://x.com/BlockSecTeam/status/1927601457815040283",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1647129600,
+    "target": "DeFi Protocol",
+    "amount": 1700000,
+    "name": "Paraluni Masterchef",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://slowmist.medium.com/paraluni-incident-analysis-58be442a4f99",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1500336000,
+    "target": "ICO",
+    "amount": 7700000,
+    "name": "CoinDash",
+    "technique": "Frontend Attack",
+    "bridge": false,
+    "link": "https://www.coindesk.com/markets/2017/07/17/7-million-lost-in-coindash-ico-hack/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1756512000,
+    "target": "DeFi Protocol",
+    "amount": 427000,
+    "name": "Cozy V2",
+    "technique": "Insufficient Sender Verification Exploit",
+    "bridge": false,
+    "link": "https://x.com/DecurityHQ/status/1961810726164533602",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Starknet"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1739232000,
+    "target": "DeFi Protocol",
+    "amount": 9550000,
+    "name": "zkLend",
+    "technique": "Empty Market Exploit",
+    "bridge": false,
+    "link": "https://x.com/zkLend/status/1889515118368829559",
+    "language": "Cairo"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1628553600,
+    "target": "DeFi Protocol",
+    "amount": 611000000,
+    "name": "Poly Network",
+    "technique": "Access Control Exploit",
+    "bridge": true,
+    "link": "https://slowmist.medium.com/the-root-cause-of-poly-network-being-hacked-ec2ee1b0c68f",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1732752000,
+    "target": "CEX",
+    "amount": 1700000,
+    "name": "XT Exchange",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/protos/status/1862100763570294837",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Scroll"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1721347200,
+    "target": "DeFi Protocol",
+    "amount": 7600000,
+    "name": "Rho Markets",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/DLNewsInfo/status/1814302008213410292",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1758672000,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "GriffinAI",
+    "technique": "False Peer Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1971053766540657069",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Rugpull",
+    "date": 1616198400,
+    "target": "DeFi Protocol",
+    "amount": 2500000,
+    "name": "Turtle Dex",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/binance-smart-chain-s-turtledex-rugpulls-shortly-after-launch",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1524268800,
+    "target": "CEX",
+    "amount": 235000000,
+    "name": "Gate",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://www.justice.gov/opa/press-release/file/1253491/download",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Blast"
+    ],
+    "classification": "Infrastructure",
+    "date": 1722384000,
+    "target": "DeFi Protocol",
+    "amount": 1300000,
+    "name": "Monoswap",
+    "technique": "Private Key Compromised (Malware)",
+    "bridge": false,
+    "link": "https://x.com/monoswapio/status/1816151998267547851",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Moonriver",
+      "BSC",
+      "Fantom"
+    ],
+    "classification": "Infrastructure",
+    "date": 1688688000,
+    "target": "DeFi Protocol",
+    "amount": 126000000,
+    "name": "Multichain",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": true,
+    "link": "https://twitter.com/tayvano_/status/1677106407131475968?t=VKQSi0VcSbv_Jgi8Q58SqQ&s=19",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1622246400,
+    "target": "DeFi Protocol",
+    "amount": 6300000,
+    "name": "Belt Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/belt-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "",
+    "date": 1752019200,
+    "target": "DeFi Protocol",
+    "amount": 2200000,
+    "name": "Texture",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/texture_fi/status/1942972150631002245",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Rugpull",
+    "date": 1641254400,
+    "target": "DeFi Protocol",
+    "amount": 10000000,
+    "name": "Arbix Finance",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://rekt.news/arbix-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1740096000,
+    "target": "CEX",
+    "amount": 1400000000,
+    "name": "Bybit",
+    "technique": "Safe Multisig wallet Phishing Exploit",
+    "bridge": false,
+    "link": "https://x.com/benbybit/status/1892963530422505586",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Ecosystem",
+    "date": 1667347200,
+    "target": "DeFi Protocol",
+    "amount": 1260000,
+    "name": "Save",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/solendprotocol/status/1587671511137398784",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1672012800,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "Amun",
+    "technique": "Controlled Rebalance Manipulation",
+    "bridge": false,
+    "link": "https://medium.com/amun-tokens/peco-dfi-post-mortem-december-26th-2022-46576394def9",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1763596800,
+    "target": "DeFi Protocol",
+    "amount": 3100000,
+    "name": "GANA Payment",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://www.theblock.co/post/379619/gana-payment-exploit",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1626307200,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Thorchain DEX",
+    "technique": "Over-ride Logic Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/thorchain-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1615680000,
+    "target": "DeFi Protocol",
+    "amount": 5700000,
+    "name": "Roll",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/roll-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1608249600,
+    "target": "DeFi Protocol",
+    "amount": 7800000,
+    "name": "Warp Protocol",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/warp-finance-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Aptos"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1731628800,
+    "target": "DeFi Protocol",
+    "amount": 25500000,
+    "name": "ThalaSwap",
+    "technique": "Drained Liquidity Pool",
+    "bridge": false,
+    "link": "https://cointelegraph.com/news/thala-recovers-25-million-exploiter-hacker-caught",
+    "language": "Move"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1699574400,
+    "target": "DeFi Protocol",
+    "amount": 3300000,
+    "name": "Raft",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://twitter.com/AnciliaInc/status/1723055359034568828",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772409600,
+    "target": "DeFi Protocol",
+    "amount": 2260000,
+    "name": "FOOM Cash",
+    "technique": "Fake Proof Spam",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2026935120943526178",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Blast"
+    ],
+    "classification": "Rugpull",
+    "date": 1728864000,
+    "target": "DeFi Protocol",
+    "amount": 350000,
+    "name": "Kalax",
+    "technique": "Drain Vaults",
+    "bridge": false,
+    "link": "https://x.com/0x50313335/status/1845398390491726296",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1766880000,
+    "target": "DeFi Protocol",
+    "amount": 129900,
+    "name": "MSCST",
+    "technique": "Atomic Sandwich Attack",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/2005515461773885670",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "zkSync Era"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1690243200,
+    "target": "DeFi Protocol",
+    "amount": 3400000,
+    "name": "EraLend",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/DLNewsInfo/status/1683870083272130562",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1726704000,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "Banana Gun",
+    "technique": "Front-end vulnerability",
+    "bridge": false,
+    "link": "https://x.com/BananaGunBot/status/1838660010387116484",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Acala"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1628812800,
+    "target": "DeFi Protocol",
+    "amount": 1600000,
+    "name": "Acala Network",
+    "technique": "Incentives Function Mistake",
+    "bridge": false,
+    "link": "https://twitter.com/alice_und_bob/status/1558959878475075584",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1746921600,
+    "target": "DeFi Protocol",
+    "amount": 2160000,
+    "name": "Mobius Token",
+    "technique": "Decimal Miscalculation Exploit",
+    "bridge": false,
+    "link": "https://www.certik.com/resources/blog/mobius-token-incident-analysis",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1615248000,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "DODO AMM",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/au-dodo-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1675209600,
+    "target": "DeFi Protocol",
+    "amount": 1700000,
+    "name": "BonqDAO",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1620917292514299904?s=20&t=ZroERzkeCrxy3gHxtboQeA",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1650153600,
+    "target": "DeFi Protocol",
+    "amount": 181000000,
+    "name": "Beanstalk",
+    "technique": "Flashloan Governance Attack",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1515693895887294466?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1606003200,
+    "target": "DeFi Protocol",
+    "amount": 19700000,
+    "name": "Pickle",
+    "technique": "Vault Swap Exploit",
+    "bridge": false,
+    "link": "https://github.com/banteg/evil-jar/blob/master/readme.md",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Mantle"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1721001600,
+    "target": "DeFi Protocol",
+    "amount": 1400000,
+    "name": "Minterest",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://x.com/Minterest/status/1812540672248820033",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum",
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1675987200,
+    "target": "DeFi Protocol",
+    "amount": 3650000,
+    "name": "dForce Lending",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1623902441992523776",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1667433600,
+    "target": "DeFi Protocol",
+    "amount": 4589449,
+    "name": "pNetwork",
+    "technique": "Misconfiguration",
+    "bridge": true,
+    "link": "https://twitter.com/pNetworkDeFi/status/1588956872664829952",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1768780800,
+    "target": "DeFi Protocol",
+    "amount": 4200000,
+    "name": "Makina",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://x.com/TenArmorAlert/status/2013460083078836342",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Loopring"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1717891200,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Loopring",
+    "technique": "Guardian 2FA service exploit",
+    "bridge": false,
+    "link": "https://x.com/loopringorg/status/1799791898296451515",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC",
+      "Avalanche"
+    ],
+    "classification": "Infrastructure",
+    "date": 1758585600,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "Seedify",
+    "technique": "Infinite Mint and Dump",
+    "bridge": true,
+    "link": "https://x.com/meta_alchemist/status/1970470733017968841",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Saga"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1768953600,
+    "target": "Chain",
+    "amount": 7000000,
+    "name": "Saga",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/SpecterAnalyst/status/2014007596605214995",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Cronos"
+    ],
+    "classification": "Infrastructure",
+    "date": 1644451200,
+    "target": "DeFi Protocol",
+    "amount": 10000000,
+    "name": "Dego Finance",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/dego-finance-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Unichain"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1756771200,
+    "target": "DeFi Protocol",
+    "amount": 8400000,
+    "name": "Bunni V2",
+    "technique": "Liquidity Distribution Function Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1962755574283768308",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC",
+      "Polygon"
+    ],
+    "classification": "Rugpull",
+    "date": 1660089600,
+    "target": "DeFi Protocol",
+    "amount": 600000,
+    "name": "Blur Finance",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://cryptoslate.com/blur-finance-allegedly-rug-pulled-investors-at-a-combined-600k-loss/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1666828800,
+    "target": "DeFi Protocol",
+    "amount": 15800000,
+    "name": "Team Finance",
+    "technique": "Migrate Function Mistake Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1585587858978623491?s=20&t=vAGSJQ0ivXGoOv80bGx4iQ",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1601251200,
+    "target": "DeFi Protocol",
+    "amount": 15000000,
+    "name": "Eminence",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/eminence-rekt-in-prod/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Optimism",
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1714435200,
+    "target": "DeFi Protocol",
+    "amount": 1600000,
+    "name": "Pike V1",
+    "technique": "Storage Misalignment Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/PikeFinance/status/1785572875124330644",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Optimism"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1735776000,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "MoonHacker",
+    "technique": "Unchecked FlashLoan Approve Exploit",
+    "bridge": false,
+    "link": "https://x.com/dedaub/status/1874838342485102852",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1693094400,
+    "target": "DeFi Protocol",
+    "amount": 800000,
+    "name": "Balancer V2",
+    "technique": "",
+    "bridge": false,
+    "link": "https://twitter.com/mevrefund/status/1695792040531960116",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1726444800,
+    "target": "DeFi Protocol",
+    "amount": 5980000,
+    "name": "DeltaPrime",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/CryptoTimes_io/status/1835620537055514652",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1722988800,
+    "target": "DeFi Protocol",
+    "amount": 1800000,
+    "name": "Nexera",
+    "technique": "Ownership Override Attack",
+    "bridge": false,
+    "link": "https://www.coindesk.com/business/2024/08/07/blockchain-protocol-nexara-suffers-18m-exploit-nxra-tumbles-40/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1740355200,
+    "target": "DeFi Protocol",
+    "amount": 49500000,
+    "name": "Infini",
+    "technique": "Dev Privilege Oversight Exploit",
+    "bridge": false,
+    "link": "https://x.com/peckshieldalert/status/1893874770803851454",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Stellar"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771718400,
+    "target": "DeFi Protocol",
+    "amount": 10970000,
+    "name": "Blend Pools V2",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/script3official/status/2025403423840141450",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Cronos"
+    ],
+    "classification": "Infrastructure",
+    "date": 1651622400,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "MM Finance Cronos",
+    "technique": "DNS Spoofing",
+    "bridge": false,
+    "link": "https://medium.com/@MMFinance/dns-hi-jacking-post-mortem-compensation-3e2b5bb21183",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1648339200,
+    "target": "DeFi Protocol",
+    "amount": 2010000,
+    "name": "Revest Finance",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/BlockSecTeam/status/1508065573250678793?s=20&t=NXJmfrEeRP3-fqmOwjOAGQ",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Rootstock"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1686700800,
+    "target": "DeFi Protocol",
+    "amount": 150000,
+    "name": "Tropykus RSK",
+    "technique": "Redeem Rounding Error Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/tropykus/status/1669310852787216385",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1696636800,
+    "target": "Other",
+    "amount": 2900000,
+    "name": "Arena SocialFi",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1710555944269292009?t=Al_-cDBwoNs3vpKqcpJ0Jw&s=19",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Solana",
+      "XRP",
+      "Bitcoin",
+      "BSC",
+      "Sui",
+      "Base",
+      "Tron",
+      "Arbitrum",
+      "Avalanche",
+      "Polygon",
+      "Optimism",
+      "zkSync Era"
+    ],
+    "classification": "Infrastructure",
+    "date": 1737590400,
+    "target": "CEX",
+    "amount": 85000000,
+    "name": "Phemex",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/1882776555312869830",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1708732800,
+    "target": "DeFi Protocol",
+    "amount": 1400000,
+    "name": "BlueBerry",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://x.com/blueberryFDN/status/1760872935982879030",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767744000,
+    "target": "DeFi Protocol",
+    "amount": 230000,
+    "name": "Polycule",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/NickPreszler/status/2008948267413876872",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1656720000,
+    "target": "DeFi Protocol",
+    "amount": 8800000,
+    "name": "Crema Finance",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Crema_Finance/status/1543638844410499073?s=20&t=tjkZ9crEBqMSfzI2BMG_oQ",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1688342400,
+    "target": "DeFi Protocol",
+    "amount": 68000,
+    "name": "AzukiDAO",
+    "technique": "Replay Attack",
+    "bridge": false,
+    "link": "https://twitter.com/dedaub/status/1675983033168453632?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1743984000,
+    "target": "DeFi Protocol",
+    "amount": 10850,
+    "name": "Tenderize V2",
+    "technique": "Proxy Upgrade Skim",
+    "bridge": false,
+    "link": "https://x.com/dedaub/status/1914815361616367872",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771113600,
+    "target": "DeFi Protocol",
+    "amount": 1780000,
+    "name": "Moonwell Lending",
+    "technique": "cbETH Collateral Exploit",
+    "bridge": false,
+    "link": "https://x.com/MoonwellDeFi/status/2023123106555199715",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Mixin"
+    ],
+    "classification": "Ecosystem",
+    "date": 1667692800,
+    "target": "DeFi Protocol",
+    "amount": 22000000,
+    "name": "Pando Rings",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://pando.im/news/2022/2022-11-06-alert-to-pando-community-hack-of-pando-rings/",
+    "language": "Go"
+  },
+  {
+    "chains": [
+      "Arbitrum",
+      "BSC",
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1683244800,
+    "target": "DeFi Protocol",
+    "amount": 6500000,
+    "name": "DEUS Finance",
+    "technique": "Burn Function Mistake",
+    "bridge": false,
+    "link": "https://twitter.com/storming0x/status/1654561199999135747?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Mixin"
+    ],
+    "classification": "Infrastructure",
+    "date": 1695427200,
+    "target": "Other",
+    "amount": 200000000,
+    "name": "Mixin Network",
+    "technique": "Database Attack",
+    "bridge": false,
+    "link": "https://twitter.com/MixinKernel/status/1706139175018529139",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Fantom"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1646784000,
+    "target": "DeFi Protocol",
+    "amount": 2260000,
+    "name": "Fantasm Finance",
+    "technique": "Missing Condition Check",
+    "bridge": false,
+    "link": "https://quadrigainitiative.com/cryptocurrencyhackscamfraudwiki/index.php?title=Fantasm_Finance_Contract_Vulnerabilities",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1690848000,
+    "target": "DeFi Protocol",
+    "amount": 620000,
+    "name": "LeetSwap",
+    "technique": "Liquidity Pools Compromised",
+    "bridge": false,
+    "link": "https://twitter.com/TheBlock__/status/1686201265758326784",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Linea"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1759968000,
+    "target": "DeFi Protocol",
+    "amount": 573000,
+    "name": "Astera.fi",
+    "technique": "Oracle Price Feed Manipulation",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/1976296543872233508",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1740787200,
+    "target": "DeFi Protocol",
+    "amount": 94000,
+    "name": "Hegic(old contract)",
+    "technique": "Unlimited repeated withdrawal exploit",
+    "bridge": false,
+    "link": "https://x.com/HegicOptions/status/1896933787923345470",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1686787200,
+    "target": "DeFi Protocol",
+    "amount": 37000,
+    "name": "Hyperliquid",
+    "technique": "CEX Price Manipulation Attack",
+    "bridge": false,
+    "link": "https://twitter.com/HyperliquidX/status/1669818300191363073",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1736294400,
+    "target": "DeFi Protocol",
+    "amount": 1470000,
+    "name": "Moby",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/Moby_trade/status/1877096336140677458",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1741305600,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "1inch",
+    "technique": "Calldata underflow and resolver hijack",
+    "bridge": false,
+    "link": "https://blog.1inch.io/vulnerability-discovered-in-resolver-contract/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1624320000,
+    "target": "DeFi Protocol",
+    "amount": 4500000,
+    "name": "Eleven Finance",
+    "technique": "Flashloan Burn Function Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/11-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1605484800,
+    "target": "DeFi Protocol",
+    "amount": 3300000,
+    "name": "CheeseBank",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/CheeseBank2020/status/1328343819201380353?s=20&t=qtl30Yo9ErEoVr8v3T20dg",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1639353600,
+    "target": "DeFi Protocol",
+    "amount": 140000000,
+    "name": "Vulcan Forged",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/vulcan-forged-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1659398400,
+    "target": "Wallet",
+    "amount": 5300000,
+    "name": "Slope Wallet",
+    "technique": "Private Key Compromised (Stored Publicly)",
+    "bridge": false,
+    "link": "https://solana.com/news/8-2-2022-application-wallet-incident",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1651363200,
+    "target": "DeFi Protocol",
+    "amount": 80000000,
+    "name": "Rari Capital",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/Hacxyk/status/1520370421773725698?s=20&t=3ZdC2UMcxHaD73SwrcnudQ",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Stacks"
+    ],
+    "classification": "Infrastructure",
+    "date": 1715817600,
+    "target": "DeFi Protocol",
+    "amount": 4300000,
+    "name": "ALEX",
+    "technique": "Private Key Compromised (Phishing)",
+    "bridge": false,
+    "link": "https://rekt.news/alexlab-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1727308800,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "Onyx V2",
+    "technique": "Liquidation Logic Exploit",
+    "bridge": false,
+    "link": "https://x.com/blocksecteam/status/1839314277359849484",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1718236800,
+    "target": "DeFi Protocol",
+    "amount": 3700000,
+    "name": "UwU Lend",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://x.com/TheBlock__/status/1801177660946612664",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1619913600,
+    "target": "DeFi Protocol",
+    "amount": 30500000,
+    "name": "Spartan",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://peckshield-94632.medium.com/the-spartan-incident-root-cause-analysis-b14135d3415f",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1700611200,
+    "target": "CEX",
+    "amount": 26400000,
+    "name": "Huobi",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/TheBlock__/status/1727397707843621201",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Infrastructure",
+    "date": 1761523200,
+    "target": "DeFi Protocol",
+    "amount": 17000,
+    "name": "402bridge",
+    "technique": "Private Key Compromised (Stored Publicly)",
+    "bridge": true,
+    "link": "https://x.com/PeckShieldAlert/status/1983029273528283503",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Polygon"
+    ],
+    "classification": "Infrastructure",
+    "date": 1688256000,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Poly Network",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": true,
+    "link": "https://twitter.com/dedaub/status/1675516729349292032?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Terra"
+    ],
+    "classification": "Smart Contract Language",
+    "date": 1633651200,
+    "target": "DeFi Protocol",
+    "amount": 90000000,
+    "name": "Mirror",
+    "technique": "Duplicate Call Exploit",
+    "bridge": false,
+    "link": "https://blocksecteam.medium.com/how-the-mirror-protocol-is-exploited-33b5c1d48322",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1621987200,
+    "target": "DeFi Protocol",
+    "amount": 680000,
+    "name": "Merlin",
+    "technique": "Flashloan Incentive Rewards Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/merlinlabs-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Harmony"
+    ],
+    "classification": "Infrastructure",
+    "date": 1638921600,
+    "target": "DeFi Protocol",
+    "amount": 1750000,
+    "name": "8ightDAO",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://rekt.news/8ight-finance-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Base",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1769299200,
+    "target": "DeFi Protocol",
+    "amount": 3200000,
+    "name": "Aperture LM",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/ApertureFinance/status/2015565097884864850",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1766016000,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "Rari Capital",
+    "technique": "Uninitialized Proxy Hijack",
+    "bridge": false,
+    "link": "https://x.com/zmtO21/status/2001585158106026270",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Ecosystem",
+    "date": 1682640000,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "0vix",
+    "technique": "Flashloan Donate Function Logic Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1651923235603361793?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1730246400,
+    "target": "DeFi Protocol",
+    "amount": 2855000,
+    "name": "SUNRAY\u00b7FINANCE",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1851816489286041885",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Osmosis"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1703635200,
+    "target": "DeFi Protocol",
+    "amount": 1100000,
+    "name": "Levana Perps",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/Levana_protocol/status/1740071199483543819",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1745625600,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "Impermax V3",
+    "technique": "Flashloan Exploit",
+    "bridge": false,
+    "link": "https://x.com/ImpermaxFinance/status/1916123070223339553",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1698537600,
+    "target": "DeFi Protocol",
+    "amount": 228000,
+    "name": "Astrid Finance",
+    "technique": "Withdraw Function Argument Manipulation",
+    "bridge": false,
+    "link": "https://twitter.com/Phalcon_xyz/status/1718455634155409489",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1743292800,
+    "target": "DeFi Protocol",
+    "amount": 355000,
+    "name": "SIR",
+    "technique": "Transient storage collision",
+    "bridge": false,
+    "link": "https://x.com/leveragesir/status/1906265780057972854",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1711670400,
+    "target": "DeFi Protocol",
+    "amount": 340000,
+    "name": "Lava",
+    "technique": "Calculation Error in Liquidation Engine ",
+    "bridge": false,
+    "link": "https://twitter.com/CertiKAlert/status/1773584949855277261",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1655337600,
+    "target": "DeFi Protocol",
+    "amount": 5800000,
+    "name": "Inverse Finance Frontier",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1537382891230883841?s=20&t=uxBt2fIcD_f82MM2VD3pCg",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1695081600,
+    "target": "DeFi Protocol",
+    "amount": 238000,
+    "name": "Balancer V2",
+    "technique": "Frontend Attack",
+    "bridge": false,
+    "link": "https://twitter.com/PeckShieldAlert/status/1704306602529247294",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Arbitrum",
+      "Optimism",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1681084800,
+    "target": "DeFi Protocol",
+    "amount": 3300000,
+    "name": "SushiSwap",
+    "technique": "Missing Input Validation",
+    "bridge": false,
+    "link": "https://x.com/ernestognw/status/1645113041430757378",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1640044800,
+    "target": "DeFi Protocol",
+    "amount": 8200000,
+    "name": "Gamma",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://medium.com/visorfinance/post-mortem-for-vvisr-staking-contract-exploit-and-upcoming-migration-7920e1dee55a",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1621382400,
+    "target": "DeFi Protocol",
+    "amount": 45000000,
+    "name": "Bunny",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://peckshield.medium.com/pancakebunny-incident-root-cause-analysis-7099f413cc9b",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Blast"
+    ],
+    "classification": "Rugpull",
+    "date": 1708819200,
+    "target": "DeFi Protocol",
+    "amount": 1300000,
+    "name": "RiskOnBlast",
+    "technique": "",
+    "bridge": false,
+    "link": "https://www.certik.com/resources/blog/risk-on-blast-incident-analysis",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1685232000,
+    "target": "DeFi Protocol",
+    "amount": 7500000,
+    "name": "Jimbos Protocol",
+    "technique": "Flashloan Slippage Attack",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1662650673731624961?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1620172800,
+    "target": "DeFi Protocol",
+    "amount": 10000000,
+    "name": "ValueDefi",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/value-rekt2/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1640044800,
+    "target": "DeFi Protocol",
+    "amount": 1750000,
+    "name": "Bent Finance",
+    "technique": "User Balances Manually Updated",
+    "bridge": false,
+    "link": "https://rekt.news/bent-finance/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Sonic",
+      "Hyperliquid L1"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1746748800,
+    "target": "DeFi Protocol",
+    "amount": 1300000,
+    "name": "LND",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/Lnd_fi/status/1920705062143250845",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Ecosystem",
+    "date": 1676505600,
+    "target": "DeFi Protocol",
+    "amount": 8500000,
+    "name": "Platypus Finance",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://twitter.com/CertiKAlert/status/1626318821840629763",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Infrastructure",
+    "date": 1692057600,
+    "target": "DeFi Protocol",
+    "amount": 865000,
+    "name": "RocketSwap Base",
+    "technique": "Private Key Compromised (Brute Force)",
+    "bridge": false,
+    "link": "https://twitter.com/Cointelegraph/status/1691316548932456448",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1742515200,
+    "target": "DeFi Protocol",
+    "amount": 8850000,
+    "name": "Zoth ZeUSD",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/1903029531558154725",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1774051200,
+    "target": "DeFi Protocol",
+    "amount": 24500000,
+    "name": "Resolv",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/ResolvLabs/status/2035581976514609437",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Flow"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1766793600,
+    "target": "Layer 1",
+    "amount": 3900000,
+    "name": "Flow",
+    "technique": "mint-and-dump Hack",
+    "bridge": false,
+    "link": "https://x.com/flow_blockchain/status/2005021612714668518",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1627603200,
+    "target": "DeFi Protocol",
+    "amount": 1500000,
+    "name": "Levyathan",
+    "technique": "Private Key Compromised (Stored Publicly)",
+    "bridge": false,
+    "link": "https://rekt.news/levyathan-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Sui"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1747872000,
+    "target": "DeFi Protocol",
+    "amount": 223000000,
+    "name": "Cetus CLMM",
+    "technique": "Spoof Token Exploit",
+    "bridge": false,
+    "link": "https://www.coindesk.com/markets/2025/05/22/sui-networks-cetus-protocol-hit-in-apparent-hack-sending-token-prices-down-90",
+    "language": "Move"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1619568000,
+    "target": "DeFi Protocol",
+    "amount": 57200000,
+    "name": "Uranium Finance",
+    "technique": "Math Mistake Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/uranium-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "",
+    "date": 1691366400,
+    "target": "DeFi Protocol",
+    "amount": 1035000,
+    "name": "Cypher",
+    "technique": "Unknown",
+    "bridge": false,
+    "link": "https://twitter.com/cypher_protocol/status/1688641036476731393",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Bitcoin",
+      "Ethereum",
+      "Arbitrum",
+      "BSC"
+    ],
+    "classification": "Ecosystem",
+    "date": 1753315200,
+    "target": "CEX",
+    "amount": 14000000,
+    "name": "WOO X",
+    "technique": "Social Engineering",
+    "bridge": false,
+    "link": "https://x.com/BlockscopeCo/status/1948793062076940512",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1636243200,
+    "target": "DeFi Protocol",
+    "amount": 4400000,
+    "name": "ChainSwap",
+    "technique": "Exploit Weak Authentication Check",
+    "bridge": true,
+    "link": "https://chain-swap.medium.com/chainswap-exploit-11-july-2021-post-mortem-6e4e346e5a32",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Ecosystem",
+    "date": 1730332800,
+    "target": "DeFi Protocol",
+    "amount": 720000,
+    "name": "1inch",
+    "technique": "Private Key Compromised (Supply Chain Attack)",
+    "bridge": false,
+    "link": "https://x.com/1inch/status/1851832307746742686",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1710892800,
+    "target": "DeFi Protocol",
+    "amount": 1800000,
+    "name": "Dolomite",
+    "technique": "Acces Control Exploit",
+    "bridge": false,
+    "link": "https://www.cryptotimes.io/2024/03/21/hacker-exploits-flaw-in-dolomite-project/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1720742400,
+    "target": "Other",
+    "amount": 2200000,
+    "name": "CoinStats",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://x.com/CoinStats/status/1811706273395622063",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1738022400,
+    "target": "Other",
+    "amount": 10000000,
+    "name": "DogWifTools",
+    "technique": "Private Key Compromised (Malware)",
+    "bridge": false,
+    "link": "https://x.com/kookcapitalllc/status/1884285558635323437",
+    "language": "Move"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC"
+    ],
+    "classification": "Infrastructure",
+    "date": 1655942400,
+    "target": "DeFi Protocol",
+    "amount": 100000000,
+    "name": "Harmony Bridge",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": true,
+    "link": "https://rekt.news/harmony-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1734307200,
+    "target": "DeFi Protocol",
+    "amount": 85700,
+    "name": "BTC24H",
+    "technique": "Acces Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/0xCommitAudits/status/1871550202508951917",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771804800,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "DGLD",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/DGLD_Official/status/2025996938869694927",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Ecosystem",
+    "date": 1632182400,
+    "target": "DeFi Protocol",
+    "amount": 34000000,
+    "name": "Vee Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://veefi.medium.com/vee-finance-attack-analysis-a4839724e085",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1690934400,
+    "target": "Other",
+    "amount": 327000,
+    "name": "Uwerx",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/CertiKAlert/status/1686667720920625152",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1721260800,
+    "target": "CEX",
+    "amount": 234900000,
+    "name": "WazirX: India",
+    "technique": "Safe Multisig wallet Phishing Exploit",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1813834131165286464",
+    "language": ""
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1680912000,
+    "target": "CEX",
+    "amount": 13900000,
+    "name": "GDAC",
+    "technique": "Hot wallet hack",
+    "bridge": false,
+    "link": "https://twitter.com/MetaSleuth/status/1645692516401033216",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Blast"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1718064000,
+    "target": "DeFi Protocol",
+    "amount": 1500000,
+    "name": "YOLO Games",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/shoucccc/status/1800353122159833195",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Rugpull",
+    "date": 1637798400,
+    "target": "DeFi Protocol",
+    "amount": 18100000,
+    "name": "Snowdog",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://rekt.news/snowdog-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Rugpull",
+    "date": 1684454400,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "Swaprum",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://www.dlnews.com/articles/defi/defi-protocol-swaprum-in-3m-rug-pull-was-certik-audited/?utm_campaign=",
+    "language": ""
+  },
+  {
+    "chains": [],
+    "classification": "Infrastructure",
+    "date": 1750377600,
+    "target": "Other",
+    "amount": 250000,
+    "name": "Hacken Token",
+    "technique": "Private Key Compromised",
+    "bridge": false,
+    "link": "https://x.com/peckshieldalert/status/1936198957119774979",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1654646400,
+    "target": "DeFi Protocol",
+    "amount": 2100000,
+    "name": "Gym Network",
+    "technique": "Deposit Function Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/gymnet-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1717977600,
+    "target": "DeFi Protocol",
+    "amount": 20000000,
+    "name": "UwU Lend",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://x.com/theblockupdates/status/1800146327914877062",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Avalanche"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1697155200,
+    "target": "DeFi Protocol",
+    "amount": 2200000,
+    "name": "Platypus Finance",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://rekt.news/platypus-rekt2/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1698019200,
+    "target": "DeFi Protocol",
+    "amount": 465000,
+    "name": "Maestro",
+    "technique": "Arbitrary External Call",
+    "bridge": false,
+    "link": "https://x.com/MaestroBots/status/1717113987479785558",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1764806400,
+    "target": "DeFi Protocol",
+    "amount": 1000000,
+    "name": "US Permissionless Dollar",
+    "technique": "\"CPIMP\" proxy front-run",
+    "bridge": false,
+    "link": "https://x.com/USPD_io/status/1996711283446464598",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Polygon",
+      "Optimism"
+    ],
+    "classification": "Infrastructure",
+    "date": 1725926400,
+    "target": "CEX",
+    "amount": 25200000,
+    "name": "Indodax",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://news.bitcoin.com/indonesian-crypto-exchange-hit-by-20-5m-hack-lazarus-group-suspected/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1605139200,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "Akropolis",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://rekt.news/akropolis-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1605571200,
+    "target": "DeFi Protocol",
+    "amount": 8000000,
+    "name": "Origin Protocol",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://rekt.news/hack-epidemic/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1668038400,
+    "target": "DeFi Protocol",
+    "amount": 4000000,
+    "name": "DFX V2",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1590831589004816384?s=20&t=0ylCEXp_O5DBIbFTAHA9vA",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "zkSync Era"
+    ],
+    "classification": "Rugpull",
+    "date": 1682380800,
+    "target": "DeFi Protocol",
+    "amount": 1820000,
+    "name": "MERLIN DEX",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://twitter.com/TheMerlinDEX/status/1651281814395187200?t=p0udX-ZR1mQfkhNS9KCfEQ&s=19",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1664668800,
+    "target": "DeFi Protocol",
+    "amount": 21000000,
+    "name": "Transit Swap",
+    "technique": "Transfer Logic Exploit",
+    "bridge": false,
+    "link": "https://rekt.news/transit-swap-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1726444800,
+    "target": "DeFi Protocol",
+    "amount": 110000,
+    "name": "WXETA",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://x.com/TenArmorAlert/status/1835494807495659645",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1690156800,
+    "target": "DeFi Protocol",
+    "amount": 900000,
+    "name": "Palmswap",
+    "technique": "Inflationary Accounting Manipulation",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1683609019334950912",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1695600000,
+    "target": "CEX",
+    "amount": 8000000,
+    "name": "HTX",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/justinsuntron/status/1706311251024822748?t=saJprSiK51MMd2GUBTnDsQ&s=19",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1704153600,
+    "target": "DeFi Protocol",
+    "amount": 4500000,
+    "name": "Radiant V2",
+    "technique": "Flashloan New Market Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1742334242120466580",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Cronos"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1731888000,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Tectonic",
+    "technique": "Price Oracle Attack",
+    "bridge": false,
+    "link": "https://x.com/5outh53a/status/1858374778299748383",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1773792000,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Neutrl",
+    "technique": "DNS Hijacking Attack",
+    "bridge": false,
+    "link": "https://x.com/Neutrl/status/2034466877712585029",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Optimism"
+    ],
+    "classification": "Ecosystem",
+    "date": 1688947200,
+    "target": "DeFi Protocol",
+    "amount": 460000,
+    "name": "Arcadia V1",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://arcadiafinance.medium.com/post-mortem-72e9d24a79b0",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Stacks"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1749168000,
+    "target": "DeFi Protocol",
+    "amount": 8373000,
+    "name": "ALEX",
+    "technique": "malicious transfer() method",
+    "bridge": false,
+    "link": "https://x.com/ALEXLabBTC/status/1931014419133169734",
+    "language": "Clarity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1752019200,
+    "target": "DeFi Protocol",
+    "amount": 42000000,
+    "name": "GMX V1 Perps",
+    "technique": "Re-entrancy Exploit",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/1942947860645134450",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1670025600,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Ratio Finance",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://twitter.com/RatioFinance/status/1621481456777428992",
+    "language": "Rust"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Base",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1734393600,
+    "target": "DeFi Protocol",
+    "amount": 2000000,
+    "name": "GemPad",
+    "technique": "Reentrancy",
+    "bridge": false,
+    "link": "https://x.com/CyversAlerts/status/1869000606955782305",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1606867200,
+    "target": "DeFi Protocol",
+    "amount": 12000000,
+    "name": "Compounder Finance",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://rekt.news/deathbed-confessions-c3pr/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1681344000,
+    "target": "DeFi Protocol",
+    "amount": 11539000,
+    "name": "Yearn Finance",
+    "technique": "Flashloan Misconfiguration Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/osec_io/status/1646411672175939585?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1641600000,
+    "target": "DeFi Protocol",
+    "amount": 7940000,
+    "name": "LCX",
+    "technique": "Private Key Compromised (Unknown Method)",
+    "bridge": false,
+    "link": "https://www.lcx.com/hot-wallet-incident-report/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1750809600,
+    "target": "DeFi Protocol",
+    "amount": 546000,
+    "name": "Silo Finance",
+    "technique": "fillQuote silo.borrow() Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/1937882770216452174",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1660003200,
+    "target": "DeFi Protocol",
+    "amount": 575000,
+    "name": "Curve DEX",
+    "technique": "DNS Spoofing",
+    "bridge": false,
+    "link": "https://rekt.news/curve-finance-rekt/",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771632000,
+    "target": "DeFi Protocol",
+    "amount": 5000,
+    "name": "Veil Cash",
+    "technique": "misconfigured Groth16 verifier",
+    "bridge": false,
+    "link": "https://x.com/Veildotcash/status/2025293773891404225",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1689984000,
+    "target": "DeFi Protocol",
+    "amount": 300000,
+    "name": "Conic Finance",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://medium.com/@ConicFinance/post-mortem-eth-and-crvusd-omnipool-exploits-c9c7fa213a3d",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1635292800,
+    "target": "DeFi Protocol",
+    "amount": 130000000,
+    "name": "CREAM Lending",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://rekt.news/cream-rekt-2/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Rugpull",
+    "date": 1635465600,
+    "target": "DeFi Protocol",
+    "amount": 60000000,
+    "name": "AnubisDAO",
+    "technique": "Drained Contracts",
+    "bridge": false,
+    "link": "https://decrypt.co/84924/anubisdao-investors-lose-60-million-in-alleged-rug-pull",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1752537600,
+    "target": "DeFi Protocol",
+    "amount": 2500000,
+    "name": "Arcadia V2",
+    "technique": "Rebalancer contract reentrancy hack",
+    "bridge": false,
+    "link": "https://x.com/ArcadiaFi/status/1944984622183370867",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "RSK"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1664841600,
+    "target": "DeFi Protocol",
+    "amount": 1100000,
+    "name": "Sovryn",
+    "technique": "Flashloan Reentrancy Attack",
+    "bridge": false,
+    "link": "https://www.halborn.com/blog/post/explained-the-sovryn-hack-october-2022",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1663632000,
+    "target": "Other",
+    "amount": 160000000,
+    "name": "Wintermute",
+    "technique": "Private Key Compromised (Brute Force)",
+    "bridge": false,
+    "link": "https://slowmist.medium.com/the-real-cause-of-the-wintermute-exploit-10da7e404b3b",
+    "language": ""
+  },
+  {
+    "chains": [
+      "BSC",
+      "Moonriver"
+    ],
+    "classification": "Ecosystem",
+    "date": 1679097600,
+    "target": "DeFi Protocol",
+    "amount": 350000,
+    "name": "Zircon Gamma",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Zircon_Finance/status/1637093661321183233",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1686528000,
+    "target": "DeFi Protocol",
+    "amount": 200000,
+    "name": "Keep3r Network",
+    "technique": "Private Key Compromised (Vanity Address)",
+    "bridge": false,
+    "link": "https://twitter.com/MetaSleuth/status/1668179353749041159",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1750809600,
+    "target": "DeFi Protocol",
+    "amount": 9600000,
+    "name": "Resupply",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/1938061948647817647",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1581984000,
+    "target": "DeFi Protocol",
+    "amount": 650000,
+    "name": "Ooki",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://twitter.com/bneiluj/status/1228757175595438080?s=20&t=rHc453VaZzUqbci29H6YDA",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1705881600,
+    "target": "DeFi Protocol",
+    "amount": 1720000,
+    "name": "Concentric",
+    "technique": "Private Key Compromised (Social Engineering)",
+    "bridge": false,
+    "link": "https://twitter.com/ConcentricFi/status/1749418658818830622",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Rugpull",
+    "date": 1677715200,
+    "target": "DeFi Protocol",
+    "amount": 100000,
+    "name": "ArbiSwap",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://twitter.com/CoinDesk/status/1631251260484509698",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1714435200,
+    "target": "DeFi Protocol",
+    "amount": 181000,
+    "name": "Yield Protocol",
+    "technique": "Balance Disparity Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/peckshield/status/1785121607192817692",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1658707200,
+    "target": "DeFi Protocol",
+    "amount": 6000000,
+    "name": "Audius",
+    "technique": "Malicious Governance Proposal",
+    "bridge": false,
+    "link": "https://rekt.news/audius-rekt/",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1677456000,
+    "target": "DeFi Protocol",
+    "amount": 700000,
+    "name": "LaunchZone",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/immunefi/status/1630210901360951296?s=20",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1687132800,
+    "target": "DeFi Protocol",
+    "amount": 131000,
+    "name": "Ara Finance",
+    "technique": "Access Control Exploit",
+    "bridge": false,
+    "link": "https://twitter.com/Phalcon_xyz/status/1670700964272295936",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Bitcoin",
+      "Solana"
+    ],
+    "classification": "Infrastructure",
+    "date": 1766620800,
+    "target": "Wallet",
+    "amount": 7000000,
+    "name": "Trust Wallet",
+    "technique": "Private Key Compromised (Supply Chain Attack)",
+    "bridge": false,
+    "link": "https://x.com/zachxbt/status/2004298839625195720",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1665446400,
+    "target": "DeFi Protocol",
+    "amount": 2300000,
+    "name": "TempleDAO",
+    "technique": "Exploit Lack of Input Authentication",
+    "bridge": false,
+    "link": "https://twitter.com/FrankResearcher/status/1579840347647414272?s=20&t=Ld2QjyQea4YYyVt3BKyJsA",
+    "language": "Solidity"
+  }
+]

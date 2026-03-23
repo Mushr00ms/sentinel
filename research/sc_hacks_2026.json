@@ -1,0 +1,397 @@
+[
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1773532800,
+    "target": "DeFi Protocol",
+    "amount": 3700000,
+    "name": "Venus Core Pool",
+    "technique": "Donation Attack",
+    "bridge": false,
+    "link": "https://x.com/hklst4r/status/2033159804626112932",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1773446400,
+    "target": "DeFi Protocol",
+    "amount": 8435,
+    "name": "Goose Finance",
+    "technique": "Share Accounting Flaw",
+    "bridge": false,
+    "link": "https://x.com/DefimonAlerts/status/2032836162046316868",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base",
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1769385600,
+    "target": "DeFi Protocol",
+    "amount": 16800000,
+    "name": "Matcha",
+    "technique": "Unlimited Approval Exploit",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/2015608261119217671",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Ecosystem",
+    "date": 1773273600,
+    "target": "DeFi Protocol",
+    "amount": 862000,
+    "name": "Aave V3",
+    "technique": "CAPO Oracle Misconfiguration",
+    "bridge": false,
+    "link": "https://x.com/yieldsandmore/status/2031468808012210538",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772064000,
+    "target": "DeFi Protocol",
+    "amount": 390000,
+    "name": "Ploutos Money",
+    "technique": "Misconfigured Oracle Exploit",
+    "bridge": false,
+    "link": "https://x.com/Phalcon_xyz/status/2026943448734114011",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772409600,
+    "target": "DeFi Protocol",
+    "amount": 240000,
+    "name": "Curve LlamaLend",
+    "technique": "Donation Attack",
+    "bridge": false,
+    "link": "https://x.com/yieldsandmore/status/2028368378457362629",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum",
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772236800,
+    "target": "DeFi Protocol",
+    "amount": 66000,
+    "name": "Wise Lending V2",
+    "technique": "Flashloan Exploit",
+    "bridge": false,
+    "link": "",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1774137600,
+    "target": "DeFi Protocol",
+    "amount": 5000000,
+    "name": "Cyrus Finance",
+    "technique": "Flashloan Pool Shares Exploit",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/2035820631711744478",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772755200,
+    "target": "DeFi Protocol",
+    "amount": 2700000,
+    "name": "SolvBTC",
+    "technique": "Mint Reserves Logic Exploit",
+    "bridge": true,
+    "link": "https://x.com/SolvProtocol/status/2029612210490933697",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767830400,
+    "target": "DeFi Protocol",
+    "amount": 26400000,
+    "name": "Truebit",
+    "technique": "Bonding Curve Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2009298780877713715",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767657600,
+    "target": "DeFi Protocol",
+    "amount": 336000,
+    "name": "Fusion by IPOR",
+    "technique": "EIP-7702 Delegation Exploit",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2008740020933578906",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767225600,
+    "target": "DeFi Protocol",
+    "amount": 97000,
+    "name": "PRXVT",
+    "technique": "Sybil Attack with CREATE2 Addresses",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2006653156927889666",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Arbitrum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767571200,
+    "target": "DeFi Protocol",
+    "amount": 1400000,
+    "name": "TMX TRIBE",
+    "technique": "Mint & Stake Loop Exploit",
+    "bridge": false,
+    "link": "https://x.com/certikalert/status/2008360565010559045",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1773705600,
+    "target": "DeFi Protocol",
+    "amount": 257000,
+    "name": "dTRINITY dLEND",
+    "technique": "Deposit Inflation Attack",
+    "bridge": false,
+    "link": "https://x.com/peckshield/status/2033869333781180654",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772841600,
+    "target": "Other",
+    "amount": 127000,
+    "name": "Molt EVM",
+    "technique": "onlySpawnerToken Modifier Hack",
+    "bridge": false,
+    "link": "https://x.com/DefimonAlerts/status/2030273132871741800",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1769644800,
+    "target": "DeFi Protocol",
+    "amount": 50000,
+    "name": "Revert Lend",
+    "technique": "Staked Collateral Exploit",
+    "bridge": false,
+    "link": "https://x.com/revertfinance/status/2017087480772600157",
+    "language": "Solidity"
+  },
+  {
+    "chains": [],
+    "classification": "Protocol Logic",
+    "date": 1769904000,
+    "target": "DeFi Protocol",
+    "amount": 3000000,
+    "name": "CrossCurve",
+    "technique": "Spoofed Cross-Chain Messages",
+    "bridge": true,
+    "link": "https://x.com/DecryptMedia/status/2018198913124118558",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1768262400,
+    "target": "DeFi Protocol",
+    "amount": 3730000,
+    "name": "YO Protocol",
+    "technique": "Slippage Exploit",
+    "bridge": false,
+    "link": "https://x.com/PeckShieldAlert/status/2011069662377980147",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1772409600,
+    "target": "DeFi Protocol",
+    "amount": 2260000,
+    "name": "FOOM Cash",
+    "technique": "Fake Proof Spam",
+    "bridge": false,
+    "link": "https://x.com/CertiKAlert/status/2026935120943526178",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1768780800,
+    "target": "DeFi Protocol",
+    "amount": 4200000,
+    "name": "Makina",
+    "technique": "Flashloan Price Oracle Attack",
+    "bridge": false,
+    "link": "https://x.com/TenArmorAlert/status/2013460083078836342",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Saga"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1768953600,
+    "target": "Chain",
+    "amount": 7000000,
+    "name": "Saga",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/SpecterAnalyst/status/2014007596605214995",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Stellar"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771718400,
+    "target": "DeFi Protocol",
+    "amount": 10970000,
+    "name": "Blend Pools V2",
+    "technique": "Price Oracle Manipulation",
+    "bridge": false,
+    "link": "https://x.com/script3official/status/2025403423840141450",
+    "language": ""
+  },
+  {
+    "chains": [
+      "Polygon"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1767744000,
+    "target": "DeFi Protocol",
+    "amount": 230000,
+    "name": "Polycule",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/NickPreszler/status/2008948267413876872",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771113600,
+    "target": "DeFi Protocol",
+    "amount": 1780000,
+    "name": "Moonwell Lending",
+    "technique": "cbETH Collateral Exploit",
+    "bridge": false,
+    "link": "https://x.com/MoonwellDeFi/status/2023123106555199715",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum",
+      "Base",
+      "BSC"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1769299200,
+    "target": "DeFi Protocol",
+    "amount": 3200000,
+    "name": "Aperture LM",
+    "technique": "",
+    "bridge": false,
+    "link": "https://x.com/ApertureFinance/status/2015565097884864850",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771804800,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "DGLD",
+    "technique": "Infinite Mint and Dump",
+    "bridge": false,
+    "link": "https://x.com/DGLD_Official/status/2025996938869694927",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Ethereum"
+    ],
+    "classification": "Infrastructure",
+    "date": 1773792000,
+    "target": "DeFi Protocol",
+    "amount": 0,
+    "name": "Neutrl",
+    "technique": "DNS Hijacking Attack",
+    "bridge": false,
+    "link": "https://x.com/Neutrl/status/2034466877712585029",
+    "language": "Solidity"
+  },
+  {
+    "chains": [
+      "Base"
+    ],
+    "classification": "Protocol Logic",
+    "date": 1771632000,
+    "target": "DeFi Protocol",
+    "amount": 5000,
+    "name": "Veil Cash",
+    "technique": "misconfigured Groth16 verifier",
+    "bridge": false,
+    "link": "https://x.com/Veildotcash/status/2025293773891404225",
+    "language": "Solidity"
+  }
+]
